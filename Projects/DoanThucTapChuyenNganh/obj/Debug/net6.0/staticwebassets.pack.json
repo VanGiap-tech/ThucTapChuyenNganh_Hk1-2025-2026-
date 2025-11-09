@@ -1,0 +1,633 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\DoanThucTapChuyenNganh.bundle.scp.css",
+      "PackagePath": "staticwebassets\\DoanThucTapChuyenNganh.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\css\\sb-admin.css",
+      "PackagePath": "staticwebassets\\css\\sb-admin.css"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\css\\sb-admin.min.css",
+      "PackagePath": "staticwebassets\\css\\sb-admin.min.css"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\css\\style.css.map"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\css\\style.scss",
+      "PackagePath": "staticwebassets\\css\\style.scss"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\images\\about-img.png",
+      "PackagePath": "staticwebassets\\images\\about-img.png"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\images\\client1.jpg",
+      "PackagePath": "staticwebassets\\images\\client1.jpg"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\images\\client2.jpg",
+      "PackagePath": "staticwebassets\\images\\client2.jpg"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\images\\f1.png",
+      "PackagePath": "staticwebassets\\images\\f1.png"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\images\\f2.png",
+      "PackagePath": "staticwebassets\\images\\f2.png"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\images\\f3.png",
+      "PackagePath": "staticwebassets\\images\\f3.png"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\images\\f4.png",
+      "PackagePath": "staticwebassets\\images\\f4.png"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\images\\f5.png",
+      "PackagePath": "staticwebassets\\images\\f5.png"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\images\\f6.png",
+      "PackagePath": "staticwebassets\\images\\f6.png"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\images\\f7.png",
+      "PackagePath": "staticwebassets\\images\\f7.png"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\images\\f8.png",
+      "PackagePath": "staticwebassets\\images\\f8.png"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\images\\f9.png",
+      "PackagePath": "staticwebassets\\images\\f9.png"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\images\\hero-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\hero-bg.jpg"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\images\\o1.jpg",
+      "PackagePath": "staticwebassets\\images\\o1.jpg"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\images\\o2.jpg",
+      "PackagePath": "staticwebassets\\images\\o2.jpg"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\js\\jquery-3.4.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.4.1.min.js"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\js\\sb-admin-charts.js",
+      "PackagePath": "staticwebassets\\js\\sb-admin-charts.js"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\js\\sb-admin-charts.min.js",
+      "PackagePath": "staticwebassets\\js\\sb-admin-charts.min.js"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\js\\sb-admin-datatables.js",
+      "PackagePath": "staticwebassets\\js\\sb-admin-datatables.js"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\js\\sb-admin-datatables.min.js",
+      "PackagePath": "staticwebassets\\js\\sb-admin-datatables.min.js"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\js\\sb-admin.js",
+      "PackagePath": "staticwebassets\\js\\sb-admin.js"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\js\\sb-admin.min.js",
+      "PackagePath": "staticwebassets\\js\\sb-admin.min.js"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\vendor\\chart.js\\Chart.bundle.js",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\Chart.bundle.js"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\vendor\\chart.js\\Chart.bundle.min.js",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\Chart.bundle.min.js"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\vendor\\chart.js\\Chart.js",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\Chart.js"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\vendor\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\vendor\\datatables\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\vendor\\datatables\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\vendor\\datatables\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\vendor\\datatables\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\vendor\\datatables\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\vendor\\datatables\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\vendor\\font-awesome\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\vendor\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\vendor\\font-awesome\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\vendor\\font-awesome\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\vendor\\font-awesome\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\vendor\\font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\vendor\\font-awesome\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\vendor\\font-awesome\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\vendor\\font-awesome\\less\\animated.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\animated.less"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\vendor\\font-awesome\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\vendor\\font-awesome\\less\\core.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\core.less"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\vendor\\font-awesome\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\fixed-width.less"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\vendor\\font-awesome\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\font-awesome.less"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\vendor\\font-awesome\\less\\icons.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\icons.less"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\vendor\\font-awesome\\less\\larger.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\larger.less"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\vendor\\font-awesome\\less\\list.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\list.less"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\vendor\\font-awesome\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\mixins.less"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\vendor\\font-awesome\\less\\path.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\path.less"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\vendor\\font-awesome\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\vendor\\font-awesome\\less\\screen-reader.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\screen-reader.less"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\vendor\\font-awesome\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\stacked.less"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\vendor\\font-awesome\\less\\variables.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\variables.less"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\vendor\\font-awesome\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_animated.scss"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\vendor\\font-awesome\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\vendor\\font-awesome\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_core.scss"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\vendor\\font-awesome\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\vendor\\font-awesome\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_icons.scss"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\vendor\\font-awesome\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_larger.scss"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\vendor\\font-awesome\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_list.scss"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\vendor\\font-awesome\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\vendor\\font-awesome\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_path.scss"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\vendor\\font-awesome\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\vendor\\font-awesome\\scss\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\vendor\\font-awesome\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\vendor\\font-awesome\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\vendor\\font-awesome\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\vendor\\jquery-easing\\jquery.easing.compatibility.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery-easing\\jquery.easing.compatibility.js"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\vendor\\jquery-easing\\jquery.easing.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery-easing\\jquery.easing.js"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\vendor\\jquery-easing\\jquery.easing.min.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery-easing\\jquery.easing.min.js"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\vendor\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh\\wwwroot\\vendor\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.DoanThucTapChuyenNganh.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.DoanThucTapChuyenNganh.props",
+      "PackagePath": "build\\DoanThucTapChuyenNganh.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.DoanThucTapChuyenNganh.props",
+      "PackagePath": "buildMultiTargeting\\DoanThucTapChuyenNganh.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.DoanThucTapChuyenNganh.props",
+      "PackagePath": "buildTransitive\\DoanThucTapChuyenNganh.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
