@@ -10,6 +10,21 @@ namespace DoanThucTapChuyenNganh.Controllers
         {
             return View();
         }
-
-    }
+        public IActionResult Products()
+        {
+            return View();
+        }
+        public IActionResult Brands()
+        {
+            return View();
+        }
+        public IActionResult Help()
+        {
+            return View();
+        }
+		public IActionResult Settings()
+		{
+			return View();
+		}
+	}
 }

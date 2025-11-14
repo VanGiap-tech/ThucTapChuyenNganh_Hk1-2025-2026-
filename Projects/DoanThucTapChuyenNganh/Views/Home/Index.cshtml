@@ -1,8 +1,13 @@
 ﻿
 @{
-    ViewData["Title"] = "Index";
+    ViewData["Title"] = "Home";
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
+
+<header>
+    
+</header>
+
 <!-- offer section -->
 
 <section class="offer_section layout_padding-bottom">
@@ -165,18 +170,15 @@
             </h2>
         </div>
 
-        <ul class="filters_menu">
-            <li class="active" data-filter="*">All</li>
-           
-        </ul>
+        
 
         <div class="filters-content">
             <div class="row grid">
-                <div class="col-sm-6 col-lg-4 all pizza">
+                <div class="col-sm-6 col-lg-4 all cuetec ">
                     <div class="box">
                         <div>
                             <div class="img-box">
-                                <img src="images/co-pha-cuetec-breach-ghost-edition-1024x1024.jpg" alt="">
+                                <img class="object-fit-cover" src="images/co-HowCJ-01.png" alt="">
                             </div>
                             <div class="detail-box">
                                 <h5>
@@ -252,7 +254,7 @@
                     <div class="box">
                         <div>
                             <div class="img-box">
-                                <img src="images/co-pha-cuetec-breach-ghost-edition-1024x1024.jpg" alt="">
+                                <img src="~/images/cue/breakcue-Cuetec-Breach.png" alt="">
                             </div>
                             <div class="detail-box">
                                 <h5>
@@ -328,7 +330,7 @@
                     <div class="box">
                         <div>
                             <div class="img-box">
-                                <img src="images/co-pha-cuetec-breach-ghost-edition-1024x1024.jpg" alt="">
+                                <img src="images/cue/cue-ls-b01-jade-dragon-700x700.jpg" alt="">
                             </div>
                             <div class="detail-box">
                                 <h5>
@@ -860,7 +862,7 @@
             </div>
         </div>
         <div class="btn-box">
-            <a href="">
+            <a asp-controller="Home" asp-action="Products">
                 Xem thêm..
             </a>
         </div>
@@ -875,8 +877,8 @@
 
         <div class="row">
             <div class="col-md-6 ">
-                <div class="img-box">
-                    <img src="images/about.jpg" alt="">
+                <div class="img-box rounded-3">
+                    <img  src="images/about.jpg" alt="">
                 </div>
             </div>
             <div class="col-md-6">
@@ -890,12 +892,13 @@
                         HG Shop được thành lập bởi Mr. Giáp – một người có niềm đam mê sâu sắc với bộ môn Bida. Xuất phát từ tình yêu và mong muốn đưa bộ môn bida Việt Nam lên một tầm cao mới, Mr. Giáp đã xây dựng HG Shop không chỉ là nơi mua sắm mà còn là điểm đến tin cậy cho cộng đồng cơ thủ.
                         Với sự am hiểu sâu sắc về kỹ thuật, chất lượng sản phẩm và nhu cầu thực tế của người chơi, Mr. Giáp đã định hướng HG Shop trở thành thương hiệu hàng đầu trong việc cung cấp các thiết bị và phụ kiện bida chuyên nghiệp.
                     </p>
-                    <a href="">
+                    <a asp-controller="Home" asp-action="About">
                         Đọc thêm..
                     </a>
                 </div>
             </div>
         </div>
+
     </div>
 </section>
 
@@ -944,8 +947,8 @@
                             <input type="date" class="form-control" placeholder="Ngày sinh của bạn">
                         </div>
                         <div class="btn_box">
-                            <button>
-                                Contact now!
+                            <button >
+                                Liên hệ ngay!
                             </button>
                         </div>
                     </form>
@@ -953,7 +956,7 @@
             </div>
             <div class="col-md-6">
                 <div class="map_container ">
-                    <div id="googleMap"></div>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m21!1m12!1m3!1d412.0198917086986!2d106.69974991504408!3d10.748668123663087!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m6!3e6!4m0!4m3!3m2!1d10.748417174326997!2d106.69983562251258!5e0!3m2!1svi!2sus!4v1762963482591!5m2!1svi!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                 </div>
             </div>
         </div>
@@ -966,7 +969,7 @@
     <div class="container">
         <div class="heading_container heading_center psudo_white_primary mb_45">
             <h2>
-                What Says Our Customers
+                Đánh giá của khách hàng!
             </h2>
         </div>
         <div class="carousel-wrap row ">
@@ -975,13 +978,13 @@
                     <div class="box">
                         <div class="detail-box">
                             <p>
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
+                                Shop bán gậy xịn đẹp và chất lượng.Hứa sẽ ủng hộ lại!
                             </p>
                             <h6>
                                 Moana Michell
                             </h6>
                             <p>
-                                magna aliqua
+                                Đã mua sản phẩm cơ How CJ-01
                             </p>
                         </div>
                         <div class="img-box">
@@ -993,13 +996,13 @@
                     <div class="box">
                         <div class="detail-box">
                             <p>
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
+                                Bàn bida chắc chắn,đẹp !
                             </p>
                             <h6>
                                 Mike Hamell
                             </h6>
                             <p>
-                                magna aliqua
+                                Bàn MRSUNG
                             </p>
                         </div>
                         <div class="img-box">

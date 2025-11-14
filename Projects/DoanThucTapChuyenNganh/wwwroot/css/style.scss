@@ -36,10 +36,10 @@ $textCol: #1f1f1f;
 }
 
 body {
-  @include main-font;
-  color: #0c0c0c;
-  background-color: #ffffff;
-  overflow-x: hidden;
+    @include main-font;
+    color: #0c0c0c;
+    background-color: #ffffff;
+    overflow-x: hidden;
 }
 
 .layout_padding {
@@ -138,25 +138,25 @@ a:focus {
 }
 
 .sub_page {
-  .hero_area {
-    min-height: auto;
+    .hero_area {
+        min-height: auto;
 
-    .bg-box {
-      position: absolute;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
+       
+        .bg-box {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
 
-      img {
-        width: 100%;
-        height: 100%;
-        object-fit: cover;
-        object-position: right top;
-      }
+            img {
+                width: 100%;
+                height: 100%;
+                object-fit: cover;
+                object-position: right top;
+            }
+        }
     }
-  }
-
 }
 
 .header_section {

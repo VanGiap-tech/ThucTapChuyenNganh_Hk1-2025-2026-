@@ -1,0 +1,60 @@
+﻿
+@{
+    ViewData["Title"] = "Cart";
+    Layout = "~/Views/Shared/_SubPageLayout.cshtml";
+}
+
+<section class="book_section layout_padding">
+    <div class="container">
+        <div class="heading_container heading_center">
+            <h1 >
+                Giỏ hàng của bạn
+            </h1>
+        </div>
+        <div class="row">
+            <div class="col-md-8">
+                <div class="app-card alert alert-dismissible shadow-sm mb-4 border-left-decoration" role="alert">
+                    <table class="table table-hover align-content-center text-center">
+                        <thead class="table-dark">
+                            <tr>
+                                <th>Hình ảnh</th>
+                               
+                                <th>Tên sản phẩm</th>
+                                
+                                <th>Giá</th>
+                                
+                                <th>Số lượng</th>
+                                <th>Trọng lượng</th>
+                                <th>Xóa</th>
+                             
+                                
+                            </tr>
+                        </thead>
+                        <tbody>
+
+                            <tr>
+                                <td><img src="~/images/cue/cue-ls-en02-male-phoenix-700x700.jpg" width="70" class="rounded"></td>
+                                <td>Cơ LS-EN02</td>
+                               
+                                <td>$550</td>
+                                <td><input type="number" value="1" class="w-25 rounded" /></td>
+                                <td>19<span>oz</span></td>
+                                <td><a href="#"><i class="fa-solid fa-trash text-danger"></i></a></td>
+                               
+                            </tr>
+                     
+
+                        </tbody>
+                    </table>
+
+                </div>
+
+            </div>
+            <div class="col-md-4">
+                <form >
+
+                </form>
+            </div>
+        </div>
+    </div>
+</section>

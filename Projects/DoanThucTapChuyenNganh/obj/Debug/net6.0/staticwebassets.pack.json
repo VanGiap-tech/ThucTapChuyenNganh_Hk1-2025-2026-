@@ -49,12 +49,16 @@
       "PackagePath": "staticwebassets\\images\\Shoplogo.png"
     },
     {
-      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\Projects\\DoanThucTapChuyenNganh\\wwwroot\\images\\about-img.png",
-      "PackagePath": "staticwebassets\\images\\about-img.png"
-    },
-    {
       "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\Projects\\DoanThucTapChuyenNganh\\wwwroot\\images\\about.jpg",
       "PackagePath": "staticwebassets\\images\\about.jpg"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\Projects\\DoanThucTapChuyenNganh\\wwwroot\\images\\aboutimg.jpg",
+      "PackagePath": "staticwebassets\\images\\aboutimg.jpg"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\Projects\\DoanThucTapChuyenNganh\\wwwroot\\images\\brand\\Peri.jpg",
+      "PackagePath": "staticwebassets\\images\\brand\\Peri.jpg"
     },
     {
       "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\Projects\\DoanThucTapChuyenNganh\\wwwroot\\images\\client1.jpg",
@@ -65,6 +69,10 @@
       "PackagePath": "staticwebassets\\images\\client2.jpg"
     },
     {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\Projects\\DoanThucTapChuyenNganh\\wwwroot\\images\\co-HowCJ-01.png",
+      "PackagePath": "staticwebassets\\images\\co-HowCJ-01.png"
+    },
+    {
       "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\Projects\\DoanThucTapChuyenNganh\\wwwroot\\images\\co-pha-cuetec-breach-ghost-edition-1024x1024.jpg",
       "PackagePath": "staticwebassets\\images\\co-pha-cuetec-breach-ghost-edition-1024x1024.jpg"
     },
@@ -73,48 +81,32 @@
       "PackagePath": "staticwebassets\\images\\cue-how-cj-01-1024x1024.jpg"
     },
     {
-      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\Projects\\DoanThucTapChuyenNganh\\wwwroot\\images\\f1.png",
-      "PackagePath": "staticwebassets\\images\\f1.png"
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\Projects\\DoanThucTapChuyenNganh\\wwwroot\\images\\cue\\breakcue-Cuetec-Breach.png",
+      "PackagePath": "staticwebassets\\images\\cue\\breakcue-Cuetec-Breach.png"
     },
     {
-      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\Projects\\DoanThucTapChuyenNganh\\wwwroot\\images\\f2.png",
-      "PackagePath": "staticwebassets\\images\\f2.png"
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\Projects\\DoanThucTapChuyenNganh\\wwwroot\\images\\cue\\cue-ls-b01-jade-dragon-700x700.jpg",
+      "PackagePath": "staticwebassets\\images\\cue\\cue-ls-b01-jade-dragon-700x700.jpg"
     },
     {
-      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\Projects\\DoanThucTapChuyenNganh\\wwwroot\\images\\f3.png",
-      "PackagePath": "staticwebassets\\images\\f3.png"
-    },
-    {
-      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\Projects\\DoanThucTapChuyenNganh\\wwwroot\\images\\f4.png",
-      "PackagePath": "staticwebassets\\images\\f4.png"
-    },
-    {
-      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\Projects\\DoanThucTapChuyenNganh\\wwwroot\\images\\f5.png",
-      "PackagePath": "staticwebassets\\images\\f5.png"
-    },
-    {
-      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\Projects\\DoanThucTapChuyenNganh\\wwwroot\\images\\f6.png",
-      "PackagePath": "staticwebassets\\images\\f6.png"
-    },
-    {
-      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\Projects\\DoanThucTapChuyenNganh\\wwwroot\\images\\f7.png",
-      "PackagePath": "staticwebassets\\images\\f7.png"
-    },
-    {
-      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\Projects\\DoanThucTapChuyenNganh\\wwwroot\\images\\f8.png",
-      "PackagePath": "staticwebassets\\images\\f8.png"
-    },
-    {
-      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\Projects\\DoanThucTapChuyenNganh\\wwwroot\\images\\f9.png",
-      "PackagePath": "staticwebassets\\images\\f9.png"
-    },
-    {
-      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\Projects\\DoanThucTapChuyenNganh\\wwwroot\\images\\favicon.png",
-      "PackagePath": "staticwebassets\\images\\favicon.png"
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\Projects\\DoanThucTapChuyenNganh\\wwwroot\\images\\cue\\cue-ls-en02-male-phoenix-700x700.jpg",
+      "PackagePath": "staticwebassets\\images\\cue\\cue-ls-en02-male-phoenix-700x700.jpg"
     },
     {
       "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\Projects\\DoanThucTapChuyenNganh\\wwwroot\\images\\hero-bg1.jpg",
       "PackagePath": "staticwebassets\\images\\hero-bg1.jpg"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\Projects\\DoanThucTapChuyenNganh\\wwwroot\\images\\icon\\7044033_zalo_icon.png",
+      "PackagePath": "staticwebassets\\images\\icon\\7044033_zalo_icon.png"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\Projects\\DoanThucTapChuyenNganh\\wwwroot\\images\\icon\\face.png",
+      "PackagePath": "staticwebassets\\images\\icon\\face.png"
+    },
+    {
+      "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\Projects\\DoanThucTapChuyenNganh\\wwwroot\\images\\icon\\titktok.png",
+      "PackagePath": "staticwebassets\\images\\icon\\titktok.png"
     },
     {
       "Id": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\Projects\\DoanThucTapChuyenNganh\\wwwroot\\js\\bootstrap.js",

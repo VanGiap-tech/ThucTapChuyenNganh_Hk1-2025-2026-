@@ -1,0 +1,55 @@
+﻿
+@{
+    ViewData["Title"] = "Register";
+    Layout = "~/Views/Shared/_SubPageLayout.cshtml";
+}
+<div class="row">
+    <div class="container d-flex  justify-content-center w-25  mt-3 mb-3">
+        <div class="col w-50 app-login">
+            <div class="form_container bg-light border border-primary p-3">
+                <h2 class="text-center">Đăng ký tài khoản</h2>
+                <form method="post" action="Register">
+
+                    <div class="mb-2">
+                        <label for="Name" class="form-label">Họ và tên</label>
+                        <input type="text" class="form-control" id="Name" name="Name" placeholder="Nhập họ và tên" required>
+                    </div>
+                    <div class="mb-2">
+                        <label for="Email" class="form-label">Email</label>
+                        <input type="email" class="form-control" id="Email" name="Email" placeholder="Nhập địa chỉ email" required>
+                    </div>
+                    <div class="mb-2">
+                        <label for="phone" class="form-label">Số điện thoại</label>
+                        <input type="number" class="form-control" id="Phone" name="Phone" placeholder="Nhập số điện thoại" required>
+                    </div>
+                    <div class="mb-2">
+                        <label for="Email" class="form-label">Tên đăng nhập</label>
+                        <input type="text" class="form-control" id="Email" name="Email" placeholder="Nhập địa chỉ email" required>
+                    </div>
+
+                    <div class="mb-2">
+                        <label for="password" class="form-label">Mật khẩu</label>
+                        <input type="text" class="form-control" id="password" name="password" placeholder="Nhập mật khẩu" required>
+                    </div>
+
+                    <div class="mb-2">
+                        <label for="password" class="form-label">Xác nhận mật khẩu</label>
+                        <input type="text" class="form-control" id="password" name="password" placeholder="Xác nhận mật khẩu" required>
+                    </div>
+
+                    <div class="text-center">
+                        <button type="submit" class="btn btn-primary m-2 px-5 py-2 fw-semibold">Đăng nhập</button>
+
+                    </div>
+                    <div class="d-flex gap-4 justify-content-between mt-3">
+                        <a asp-controller="Account" asp-action="Login" class="text-primary">
+                            Đã có tài khoản?Trở về đăng nhập...
+                        </a>
+
+                    </div>
+
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
