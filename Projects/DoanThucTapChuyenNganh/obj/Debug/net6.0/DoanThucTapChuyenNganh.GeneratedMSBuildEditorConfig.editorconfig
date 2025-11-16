@@ -48,6 +48,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cU2V0dGluZ3MuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/VANGIAP/Thực tập chuyên ngành/Mainweb/DoanThucTapChuyenNganh/Projects/DoanThucTapChuyenNganh/Views/Admin/Test.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVGVzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/VANGIAP/Thực tập chuyên ngành/Mainweb/DoanThucTapChuyenNganh/Projects/DoanThucTapChuyenNganh/Views/Admin/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -62,6 +66,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/VANGIAP/Thực tập chuyên ngành/Mainweb/DoanThucTapChuyenNganh/Projects/DoanThucTapChuyenNganh/Views/Home/Contact.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/VANGIAP/Thực tập chuyên ngành/Mainweb/DoanThucTapChuyenNganh/Projects/DoanThucTapChuyenNganh/Views/Home/Customers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDdXN0b21lcnMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/VANGIAP/Thực tập chuyên ngành/Mainweb/DoanThucTapChuyenNganh/Projects/DoanThucTapChuyenNganh/Views/Home/Index.cshtml]

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "M3PfMBZTkSDcKGMLO3/Fe/nfkr7wJA3mexzyyKJ0KaI=",
+  "Hash": "97WmOXUaEqi2oP9agBp/GkJ5eXMdYW+xELRj55i2XhI=",
   "Source": "DoanThucTapChuyenNganh",
   "BasePath": "_content/DoanThucTapChuyenNganh",
   "Mode": "Default",
@@ -491,6 +491,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\Shoplogo.png"
+    },
+    {
+      "Identity": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\Projects\\DoanThucTapChuyenNganh\\wwwroot\\images\\table\\Mrsung.jpg",
+      "SourceId": "DoanThucTapChuyenNganh",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\Projects\\DoanThucTapChuyenNganh\\wwwroot\\",
+      "BasePath": "_content/DoanThucTapChuyenNganh",
+      "RelativePath": "images/table/Mrsung.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\table\\Mrsung.jpg"
+    },
+    {
+      "Identity": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\Projects\\DoanThucTapChuyenNganh\\wwwroot\\images\\table\\MRSUNG.png",
+      "SourceId": "DoanThucTapChuyenNganh",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\Projects\\DoanThucTapChuyenNganh\\wwwroot\\",
+      "BasePath": "_content/DoanThucTapChuyenNganh",
+      "RelativePath": "images/table/MRSUNG.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\table\\MRSUNG.png"
     },
     {
       "Identity": "C:\\VANGIAP\\Thực tập chuyên ngành\\Mainweb\\DoanThucTapChuyenNganh\\Projects\\DoanThucTapChuyenNganh\\wwwroot\\js\\bootstrap.js",
