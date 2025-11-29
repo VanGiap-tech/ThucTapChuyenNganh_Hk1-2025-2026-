@@ -1,0 +1,49 @@
+﻿@{
+    ViewData["Title"] = "Brands";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+<div class="app-content pt-3 p-md-3 p-lg-4 mt-5">
+    <div class="container-xl">
+
+        <h1>Danh sách nhà sản xuất</h1>
+
+        <p>
+            <a asp-controller="Brand" asp-action="formAddBrands" class="btn btn-primary">Thêm nhà sản xuất</a>
+        </p>
+        <div class="app-card alert alert-dismissible shadow-sm mb-4 border-left-decoration" role="alert">
+            <table class="table table-hover align-content-center text-center">
+                <thead class="table-dark">
+                    <tr>
+                        <th>Mã nhà sản xuất</th>
+                        <th>Tên nhà sản xuất</th>
+
+                        <th>Xuất xứ</th>
+
+                        <th>Tác vụ</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @{
+                        foreach (var item in Model)
+                        {
+                            <tr>
+                                <th>@item.Id</th>
+                                <th>@item.Name</th>
+                                <th>@item.Country</th>
+                                <th class="d-flex gap-3 justify-content-center">
+                                    <a asp-controller="Brand" asp-action="formEditBrands" asp-route-id="@item.Id" as class="text-warning"><i class="fa-solid fa-pen-to-square"></i></a>
+                                    <a asp-controller="Brand" asp-action="RemoveBrands" asp-route-id="@item.Id" class="text-danger"><i class="fa-solid fa-trash"></i></a>
+                                </th>
+
+
+                            </tr>
+                        }
+
+                    }
+
+                </tbody>
+            </table>
+
+        </div>
+    </div>
+</div>

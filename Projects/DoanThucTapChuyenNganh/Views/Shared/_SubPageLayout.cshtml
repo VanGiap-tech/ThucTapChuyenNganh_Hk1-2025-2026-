@@ -17,8 +17,9 @@
 
     <link rel="stylesheet" type="text/css" href="~/css/bootstrap.css" asp-append-version="true" />
     <link href="~/css/font-awesome.min.css" rel="stylesheet" asp-append-version="true" />
-
+    
     <link href="~/css/style.css" rel="stylesheet" asp-append-version="true" />
+ @*   <link href="~/css/site.css" rel="stylesheet" asp-append-version="true" />*@
     <link href="~/css/responsive.css" rel="stylesheet" asp-append-version="true" />
 
 </head>
@@ -42,19 +43,26 @@
                     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                         <span class=""> </span>
                     </button>
-
+                    @{
+                        var currentController = ViewContext.RouteData.Values["controller"]?.ToString();
+                        var currentAction = ViewContext.RouteData.Values["action"]?.ToString();
+                    }
                     <div class="collapse navbar-collapse" id="navbarSupportedContent">
                         <ul class="navbar-nav mx-auto ">
-                            <li class="nav-item active">
-                                <a class="nav-link" asp-controller="Home" asp-action="Index">Home<span class="sr-only">(current)</span></a>
+                            <li class="nav-item  @(currentAction == "Index" &&
+                             currentController == "Home" ? "active" : "")">
+                                <a class="nav-link " asp-controller="Home" asp-action="Index">Home<span class="sr-only">(current)</span></a>
                             </li>
-                            <li class="nav-item">
-                                <a class="nav-link" asp-controller="Home" asp-action="Products">Products</a>
+                            <li class="nav-item @(currentAction == "Products" &&
+                             currentController == "Home" ? "active" : "")">
+                                <a class="nav-link " asp-controller="Home" asp-action="Products">Products</a>
                             </li>
-                            <li class="nav-item">
+                            <li class="nav-item  @(currentAction == "About" &&
+                             currentController == "Home" ? "active" : "")">
                                 <a class="nav-link" asp-controller="Home" asp-action="About">About</a>
                             </li>
-                            <li class="nav-item">
+                            <li class="nav-item  @(currentAction == "Contact" &&
+                             currentController == "Home" ? "active" : "")">
                                 <a class="nav-link" asp-controller="Home" asp-action="Contact">Contact</a>
                             </li>
                         </ul>

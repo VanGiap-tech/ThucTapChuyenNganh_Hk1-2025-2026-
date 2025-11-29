@@ -1,11 +1,13 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿
+using DoanThucTapChuyenNganh.Models;
+using Microsoft.AspNetCore.Mvc;
+using System.Drawing.Text;
 
 namespace DoanThucTapChuyenNganh.Controllers
 {
-
     public class AdminController : Controller
     {
-
+       
         public IActionResult Index()
         {
             return View();
@@ -14,10 +16,7 @@ namespace DoanThucTapChuyenNganh.Controllers
         {
             return View();
         }
-        public IActionResult Brands()
-        {
-            return View();
-        }
+       
         public IActionResult Help()
         {
             return View();
