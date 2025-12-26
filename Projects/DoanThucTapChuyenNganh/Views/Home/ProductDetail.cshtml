@@ -1,46 +1,74 @@
-﻿
+﻿@model DoanThucTapChuyenNganh.Models.Product
+
 @{
-    ViewData["Title"] = "ProductDetail";
+    ViewData["Title"] = "Chi tiết sản phẩm - " + Model.Name;
     Layout = "~/Views/Shared/_SubPageLayout.cshtml";
 }
 
 <section class="about_section layout_padding">
     <div class="container">
+        <nav aria-label="breadcrumb" class="mb-4">
+            <ol class="breadcrumb bg-transparent p-0">
+                <li class="breadcrumb-item"><a asp-controller="Home" asp-action="Index" style="color: #ffbe33;">Trang chủ</a></li>
+                <li class="breadcrumb-item"><a asp-action="Products" style="color: #ffbe33;">Sản phẩm</a></li>
+                <li class="breadcrumb-item active" aria-current="page">@Model.Name</li>
+            </ol>
+        </nav>
 
         <div class="row">
-            
             <div class="col-md-6">
-                <div class="img-box">
-                    <img src="~/images/cue/cue-ls-en02-male-phoenix-700x700.jpg" alt="Cơ HG LS-EN02 Male Phoenix">
+                <div class="img-box shadow-sm p-3 mb-5 bg-white rounded">
+                    @if (!string.IsNullOrEmpty(Model.ImageUrl))
+                    {
+                        
+                        <img src="~/images/products/@Model.ImageUrl" alt="@Model.Name" class="img-fluid">
+                    }
+                    else
+                    {
+                        <img src="~/images/no-image.png" alt="No Image" class="img-fluid">
+                    }
                 </div>
             </div>
 
             <div class="col-md-6">
                 <div class="detail-box">
-                    <div class="heading_container">
-                        <h2>
-                            Cơ HG LS-EN02 Male Phoenix
+                    <div class="heading_container ">
+                        <h2 class="text-white">
+                            @Model.Name
                         </h2>
                     </div>
+
+                    <h4 class="text-danger mt-3 mb-3 font-weight-bold">
+                        @Model.Price.ToString("#,##0") VNĐ
+                    </h4>
+
                     <p>
-                        <strong>HG LS-EN02 Male Phoenix</strong> – cơ bida cao cấp, thiết kế tinh xảo, mang đến trải nghiệm chơi mượt mà và chính xác.
+                        @Model.Description
                     </p>
 
-                    <div class="purchase-section mb-4">
-                        <label for="quantity">Số lượng:</label>
-                        <input  type="number" id="quantity" name="quantity" value="1" min="1" class="form-control w-auto d-inline-block ms-2">
-                        <button class="btn btn-outline-primary">Thêm vào giỏ hàng</button>
+                    <div class="purchase-section mb-4 mt-4">
+                        <form asp-controller="Cart" asp-action="AddToCart" method="get" class="d-flex align-items-center">
+                            <input type="hidden" name="id" value="@Model.Id" />
+
+                            <label for="quantity">Số lượng: </label>
+                            <input type="number" id="quantity" name="quantity" value="1" min="1" max="@Model.StockQuantity"
+                                   class="form-control w-auto d-inline-block ms-2 me-3 mx-2" style="width: 60px !important;">
+
+                            <button type="submit" class="btn btn-warning text-white font-weight-bold shadow-sm">
+                                <i class="fa fa-shopping-cart"></i> Thêm vào giỏ hàng
+                            </button>
+                        </form>
                     </div>
 
-                 
+                    
                     <div class="specifications mt-4">
-                        <h5>Thông số kỹ thuật:</h5>
-                        <ul>
-                            <li>Chiều dài: 147 cm</li>
-                            <li>Trọng lượng: 19 oz</li>
-                            <li>Chất liệu: Gỗ Maple chọn lọc, mối nối carbon cứng cáp</li>
-                            <li>Đầu cơ: 13 mm cao su mềm, chống mài mòn</li>
-                            <li>Thiết kế: Họa tiết Phoenix độc quyền, sơn bóng cao cấp</li>
+                        <h5 class="font-weight-bold text-white border-bottom pb-2">Thông số kỹ thuật:</h5>
+                        <ul class="list-unstyled mt-3">
+                            <li class="mb-2 text-white-50"><i class="fa fa-caret-right text-warning me-2"></i> <strong>Thương hiệu:</strong> @Model.Brand?.Name</li>
+                            <li class="mb-2 text-white-50"><i class="fa fa-caret-right text-warning me-2"></i> <strong>Chất liệu:</strong> @Model.Material</li>
+                            <li class="mb-2 text-white-50"><i class="fa fa-caret-right text-warning me-2"></i> <strong>Trọng lượng:</strong> @(Model.Weight.HasValue? Model.Weight + " oz" : "Đang cập nhật")</li>
+                            <li class="mb-2 text-white-50"><i class="fa fa-caret-right text-warning me-2"></i> <strong>Danh mục:</strong> @Model.Category?.Name</li>
+                            <li class="mb-2 text-white-50"><i class="fa fa-caret-right text-warning me-2"></i> <strong>Tình trạng:</strong> @(Model.StockQuantity > 0 ? "Còn hàng" : "Tạm hết hàng")</li>
                         </ul>
                     </div>
                 </div>
@@ -48,3 +76,38 @@
         </div>
     </div>
 </section>
+
+@* Thêm một chút CSS tùy chỉnh để làm đẹp hơn *@
+<style>
+    .detail-box h2 {
+        text-transform: uppercase;
+        font-weight: bold;
+        color: #222;
+    }
+
+    .specifications ul li {
+        font-size: 1.05rem;
+        color: #444;
+    }
+
+    .img-box img {
+        width: 100%;
+        border-radius: 10px;
+        transition: transform 0.3s ease;
+    }
+
+        .img-box img:hover {
+            transform: scale(1.02);
+        }
+
+    .btn-warning {
+        background-color: #ffbe33;
+        border: none;
+        padding: 10px 25px;
+        border-radius: 30px;
+    }
+
+        .btn-warning:hover {
+            background-color: #e69100;
+        }
+</style>

@@ -1,74 +1,262 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Mainweb\\DoanThucTapChuyenNganh\\Projects\\",
+  "WorkspaceRootPath": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7319E475-7895-4549-B22B-8241C9203F8A}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|c:\\vangiap\\th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\mainweb\\doanthuctapchuyennganh\\projects\\doanthuctapchuyennganh\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7319E475-7895-4549-B22B-8241C9203F8A}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|solutionrelative:doanthuctapchuyennganh\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|c:\\vangiap\\th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\thuc tap chuyen nhanh webdemo\\projects\\doanthuctapchuyennganh\\views\\shared\\_subpagelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|solutionrelative:doanthuctapchuyennganh\\views\\shared\\_subpagelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7319E475-7895-4549-B22B-8241C9203F8A}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|c:\\vangiap\\th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\mainweb\\doanthuctapchuyennganh\\projects\\doanthuctapchuyennganh\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7319E475-7895-4549-B22B-8241C9203F8A}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|solutionrelative:doanthuctapchuyennganh\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|c:\\vangiap\\th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\thuc tap chuyen nhanh webdemo\\projects\\doanthuctapchuyennganh\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|solutionrelative:doanthuctapchuyennganh\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7319E475-7895-4549-B22B-8241C9203F8A}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|c:\\vangiap\\th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\mainweb\\doanthuctapchuyennganh\\projects\\doanthuctapchuyennganh\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7319E475-7895-4549-B22B-8241C9203F8A}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|solutionrelative:doanthuctapchuyennganh\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|c:\\vangiap\\th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\thuc tap chuyen nhanh webdemo\\projects\\doanthuctapchuyennganh\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|solutionrelative:doanthuctapchuyennganh\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7319E475-7895-4549-B22B-8241C9203F8A}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|c:\\vangiap\\th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\mainweb\\doanthuctapchuyennganh\\projects\\doanthuctapchuyennganh\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7319E475-7895-4549-B22B-8241C9203F8A}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|solutionrelative:doanthuctapchuyennganh\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|c:\\vangiap\\th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\thuc tap chuyen nhanh webdemo\\projects\\doanthuctapchuyennganh\\viewmodels\\userviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|solutionrelative:doanthuctapchuyennganh\\viewmodels\\userviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7319E475-7895-4549-B22B-8241C9203F8A}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|c:\\vangiap\\th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\mainweb\\doanthuctapchuyennganh\\projects\\doanthuctapchuyennganh\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7319E475-7895-4549-B22B-8241C9203F8A}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|solutionrelative:doanthuctapchuyennganh\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|c:\\vangiap\\th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\thuc tap chuyen nhanh webdemo\\projects\\doanthuctapchuyennganh\\viewmodels\\registerviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|solutionrelative:doanthuctapchuyennganh\\viewmodels\\registerviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7319E475-7895-4549-B22B-8241C9203F8A}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|c:\\vangiap\\th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\mainweb\\doanthuctapchuyennganh\\projects\\doanthuctapchuyennganh\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7319E475-7895-4549-B22B-8241C9203F8A}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|solutionrelative:doanthuctapchuyennganh\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|c:\\vangiap\\th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\thuc tap chuyen nhanh webdemo\\projects\\doanthuctapchuyennganh\\areas\\admin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|solutionrelative:doanthuctapchuyennganh\\areas\\admin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7319E475-7895-4549-B22B-8241C9203F8A}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|c:\\vangiap\\th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\mainweb\\doanthuctapchuyennganh\\projects\\doanthuctapchuyennganh\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7319E475-7895-4549-B22B-8241C9203F8A}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|solutionrelative:doanthuctapchuyennganh\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|c:\\vangiap\\th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\thuc tap chuyen nhanh webdemo\\projects\\doanthuctapchuyennganh\\areas\\admin\\views\\user\\formadduser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|solutionrelative:doanthuctapchuyennganh\\areas\\admin\\views\\user\\formadduser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7319E475-7895-4549-B22B-8241C9203F8A}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|c:\\vangiap\\th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\mainweb\\doanthuctapchuyennganh\\projects\\doanthuctapchuyennganh\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7319E475-7895-4549-B22B-8241C9203F8A}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|solutionrelative:doanthuctapchuyennganh\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|c:\\vangiap\\th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\thuc tap chuyen nhanh webdemo\\projects\\doanthuctapchuyennganh\\viewmodels\\loginviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|solutionrelative:doanthuctapchuyennganh\\viewmodels\\loginviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7319E475-7895-4549-B22B-8241C9203F8A}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|c:\\vangiap\\th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\mainweb\\doanthuctapchuyennganh\\projects\\doanthuctapchuyennganh\\views\\brand\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7319E475-7895-4549-B22B-8241C9203F8A}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|solutionrelative:doanthuctapchuyennganh\\views\\brand\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|c:\\vangiap\\th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\thuc tap chuyen nhanh webdemo\\projects\\doanthuctapchuyennganh\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|solutionrelative:doanthuctapchuyennganh\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7319E475-7895-4549-B22B-8241C9203F8A}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|c:\\vangiap\\th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\mainweb\\doanthuctapchuyennganh\\projects\\doanthuctapchuyennganh\\views\\admin\\settings.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7319E475-7895-4549-B22B-8241C9203F8A}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|solutionrelative:doanthuctapchuyennganh\\views\\admin\\settings.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|c:\\vangiap\\th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\thuc tap chuyen nhanh webdemo\\projects\\doanthuctapchuyennganh\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|solutionrelative:doanthuctapchuyennganh\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7319E475-7895-4549-B22B-8241C9203F8A}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|c:\\vangiap\\th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\mainweb\\doanthuctapchuyennganh\\projects\\doanthuctapchuyennganh\\views\\admin\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7319E475-7895-4549-B22B-8241C9203F8A}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|solutionrelative:doanthuctapchuyennganh\\views\\admin\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|c:\\vangiap\\th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\thuc tap chuyen nhanh webdemo\\projects\\doanthuctapchuyennganh\\areas\\admin\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|solutionrelative:doanthuctapchuyennganh\\areas\\admin\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7319E475-7895-4549-B22B-8241C9203F8A}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|c:\\vangiap\\th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\mainweb\\doanthuctapchuyennganh\\projects\\doanthuctapchuyennganh\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7319E475-7895-4549-B22B-8241C9203F8A}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|solutionrelative:doanthuctapchuyennganh\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|c:\\vangiap\\th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\thuc tap chuyen nhanh webdemo\\projects\\doanthuctapchuyennganh\\areas\\admin\\views\\home\\settings.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|solutionrelative:doanthuctapchuyennganh\\areas\\admin\\views\\home\\settings.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7319E475-7895-4549-B22B-8241C9203F8A}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|c:\\vangiap\\th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\mainweb\\doanthuctapchuyennganh\\projects\\doanthuctapchuyennganh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7319E475-7895-4549-B22B-8241C9203F8A}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|solutionrelative:doanthuctapchuyennganh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|c:\\vangiap\\th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\thuc tap chuyen nhanh webdemo\\projects\\doanthuctapchuyennganh\\areas\\admin\\views\\category\\formaddcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|solutionrelative:doanthuctapchuyennganh\\areas\\admin\\views\\category\\formaddcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7319E475-7895-4549-B22B-8241C9203F8A}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|c:\\vangiap\\th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\mainweb\\doanthuctapchuyennganh\\projects\\doanthuctapchuyennganh\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7319E475-7895-4549-B22B-8241C9203F8A}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|solutionrelative:doanthuctapchuyennganh\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|c:\\vangiap\\th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\thuc tap chuyen nhanh webdemo\\projects\\doanthuctapchuyennganh\\areas\\admin\\views\\user\\formremoveuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|solutionrelative:doanthuctapchuyennganh\\areas\\admin\\views\\user\\formremoveuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7319E475-7895-4549-B22B-8241C9203F8A}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|c:\\vangiap\\th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\mainweb\\doanthuctapchuyennganh\\projects\\doanthuctapchuyennganh\\doanthuctapchuyennganh.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{7319E475-7895-4549-B22B-8241C9203F8A}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|solutionrelative:doanthuctapchuyennganh\\doanthuctapchuyennganh.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|c:\\vangiap\\th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\thuc tap chuyen nhanh webdemo\\projects\\doanthuctapchuyennganh\\areas\\admin\\views\\category\\formremovecategories.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|solutionrelative:doanthuctapchuyennganh\\areas\\admin\\views\\category\\formremovecategories.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7319E475-7895-4549-B22B-8241C9203F8A}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|c:\\vangiap\\th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\mainweb\\doanthuctapchuyennganh\\projects\\doanthuctapchuyennganh\\doanthuctapchuyennganh.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{7319E475-7895-4549-B22B-8241C9203F8A}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|solutionrelative:doanthuctapchuyennganh\\doanthuctapchuyennganh.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|c:\\vangiap\\th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\thuc tap chuyen nhanh webdemo\\projects\\doanthuctapchuyennganh\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|solutionrelative:doanthuctapchuyennganh\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7319E475-7895-4549-B22B-8241C9203F8A}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|c:\\vangiap\\th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\mainweb\\doanthuctapchuyennganh\\projects\\doanthuctapchuyennganh\\doanthuctapchuyennganh.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}",
-      "RelativeMoniker": "D:0:0:{7319E475-7895-4549-B22B-8241C9203F8A}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|solutionrelative:doanthuctapchuyennganh\\doanthuctapchuyennganh.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}"
+      "AbsoluteMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|c:\\vangiap\\th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\thuc tap chuyen nhanh webdemo\\projects\\doanthuctapchuyennganh\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|solutionrelative:doanthuctapchuyennganh\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|c:\\vangiap\\th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\thuc tap chuyen nhanh webdemo\\projects\\doanthuctapchuyennganh\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|solutionrelative:doanthuctapchuyennganh\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|c:\\vangiap\\th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\thuc tap chuyen nhanh webdemo\\projects\\doanthuctapchuyennganh\\areas\\admin\\views\\user\\formedituser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|solutionrelative:doanthuctapchuyennganh\\areas\\admin\\views\\user\\formedituser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|c:\\vangiap\\th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\thuc tap chuyen nhanh webdemo\\projects\\doanthuctapchuyennganh\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|solutionrelative:doanthuctapchuyennganh\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|c:\\vangiap\\th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\thuc tap chuyen nhanh webdemo\\projects\\doanthuctapchuyennganh\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|solutionrelative:doanthuctapchuyennganh\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|c:\\vangiap\\th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\thuc tap chuyen nhanh webdemo\\projects\\doanthuctapchuyennganh\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|solutionrelative:doanthuctapchuyennganh\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|c:\\vangiap\\th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\thuc tap chuyen nhanh webdemo\\projects\\doanthuctapchuyennganh\\views\\home\\productdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|solutionrelative:doanthuctapchuyennganh\\views\\home\\productdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|c:\\vangiap\\th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\thuc tap chuyen nhanh webdemo\\projects\\doanthuctapchuyennganh\\areas\\admin\\views\\product\\formeditproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|solutionrelative:doanthuctapchuyennganh\\areas\\admin\\views\\product\\formeditproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|c:\\vangiap\\th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\thuc tap chuyen nhanh webdemo\\projects\\doanthuctapchuyennganh\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|solutionrelative:doanthuctapchuyennganh\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|c:\\vangiap\\th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\thuc tap chuyen nhanh webdemo\\projects\\doanthuctapchuyennganh\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|solutionrelative:doanthuctapchuyennganh\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|c:\\vangiap\\th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\thuc tap chuyen nhanh webdemo\\projects\\doanthuctapchuyennganh\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|solutionrelative:doanthuctapchuyennganh\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|c:\\vangiap\\th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\thuc tap chuyen nhanh webdemo\\projects\\doanthuctapchuyennganh\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|solutionrelative:doanthuctapchuyennganh\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|c:\\vangiap\\th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\thuc tap chuyen nhanh webdemo\\projects\\doanthuctapchuyennganh\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|solutionrelative:doanthuctapchuyennganh\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|c:\\vangiap\\th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\thuc tap chuyen nhanh webdemo\\projects\\doanthuctapchuyennganh\\areas\\admin\\views\\brand\\formremovebrands.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|solutionrelative:doanthuctapchuyennganh\\areas\\admin\\views\\brand\\formremovebrands.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|c:\\vangiap\\th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\thuc tap chuyen nhanh webdemo\\projects\\doanthuctapchuyennganh\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|solutionrelative:doanthuctapchuyennganh\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|c:\\vangiap\\th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\thuc tap chuyen nhanh webdemo\\projects\\doanthuctapchuyennganh\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|solutionrelative:doanthuctapchuyennganh\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|c:\\vangiap\\th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\thuc tap chuyen nhanh webdemo\\projects\\doanthuctapchuyennganh\\views\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|solutionrelative:doanthuctapchuyennganh\\views\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|c:\\vangiap\\th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\thuc tap chuyen nhanh webdemo\\projects\\doanthuctapchuyennganh\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|solutionrelative:doanthuctapchuyennganh\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|c:\\vangiap\\th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\thuc tap chuyen nhanh webdemo\\projects\\doanthuctapchuyennganh\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|solutionrelative:doanthuctapchuyennganh\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|c:\\vangiap\\th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\thuc tap chuyen nhanh webdemo\\projects\\doanthuctapchuyennganh\\views\\home\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|solutionrelative:doanthuctapchuyennganh\\views\\home\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|c:\\vangiap\\th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\thuc tap chuyen nhanh webdemo\\projects\\doanthuctapchuyennganh\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|solutionrelative:doanthuctapchuyennganh\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|c:\\vangiap\\th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\thuc tap chuyen nhanh webdemo\\projects\\doanthuctapchuyennganh\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|solutionrelative:doanthuctapchuyennganh\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|c:\\vangiap\\th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\thuc tap chuyen nhanh webdemo\\projects\\doanthuctapchuyennganh\\areas\\admin\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|solutionrelative:doanthuctapchuyennganh\\areas\\admin\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|c:\\vangiap\\th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\thuc tap chuyen nhanh webdemo\\projects\\doanthuctapchuyennganh\\views\\home\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|solutionrelative:doanthuctapchuyennganh\\views\\home\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|c:\\vangiap\\th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\thuc tap chuyen nhanh webdemo\\projects\\doanthuctapchuyennganh\\areas\\admin\\views\\home\\help.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|solutionrelative:doanthuctapchuyennganh\\areas\\admin\\views\\home\\help.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|c:\\vangiap\\th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\thuc tap chuyen nhanh webdemo\\projects\\doanthuctapchuyennganh\\areas\\admin\\views\\home\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|solutionrelative:doanthuctapchuyennganh\\areas\\admin\\views\\home\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|c:\\vangiap\\th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\thuc tap chuyen nhanh webdemo\\projects\\doanthuctapchuyennganh\\areas\\admin\\controllers\\adminbasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|solutionrelative:doanthuctapchuyennganh\\areas\\admin\\controllers\\adminbasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|c:\\vangiap\\th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\thuc tap chuyen nhanh webdemo\\projects\\doanthuctapchuyennganh\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|solutionrelative:doanthuctapchuyennganh\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|c:\\vangiap\\th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\thuc tap chuyen nhanh webdemo\\projects\\doanthuctapchuyennganh\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|solutionrelative:doanthuctapchuyennganh\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|c:\\vangiap\\th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\thuc tap chuyen nhanh webdemo\\projects\\doanthuctapchuyennganh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|solutionrelative:doanthuctapchuyennganh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|c:\\vangiap\\th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\thuc tap chuyen nhanh webdemo\\projects\\doanthuctapchuyennganh\\areas\\admin\\views\\product\\formdeleteproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|solutionrelative:doanthuctapchuyennganh\\areas\\admin\\views\\product\\formdeleteproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|c:\\vangiap\\th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\thuc tap chuyen nhanh webdemo\\projects\\doanthuctapchuyennganh\\areas\\admin\\views\\product\\formcreateproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|solutionrelative:doanthuctapchuyennganh\\areas\\admin\\views\\product\\formcreateproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|c:\\vangiap\\th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\thuc tap chuyen nhanh webdemo\\projects\\doanthuctapchuyennganh\\areas\\admin\\views\\brand\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|solutionrelative:doanthuctapchuyennganh\\areas\\admin\\views\\brand\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|c:\\vangiap\\th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\thuc tap chuyen nhanh webdemo\\projects\\doanthuctapchuyennganh\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|solutionrelative:doanthuctapchuyennganh\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|c:\\vangiap\\th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\thuc tap chuyen nhanh webdemo\\projects\\doanthuctapchuyennganh\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|solutionrelative:doanthuctapchuyennganh\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|c:\\vangiap\\th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\thuc tap chuyen nhanh webdemo\\projects\\doanthuctapchuyennganh\\areas\\admin\\views\\brand\\formeditbrands.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|solutionrelative:doanthuctapchuyennganh\\areas\\admin\\views\\brand\\formeditbrands.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|c:\\vangiap\\th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\thuc tap chuyen nhanh webdemo\\projects\\doanthuctapchuyennganh\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|solutionrelative:doanthuctapchuyennganh\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|c:\\vangiap\\th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\thuc tap chuyen nhanh webdemo\\projects\\doanthuctapchuyennganh\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|solutionrelative:doanthuctapchuyennganh\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|c:\\vangiap\\th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\thuc tap chuyen nhanh webdemo\\projects\\doanthuctapchuyennganh\\areas\\admin\\views\\category\\formeditcategories.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|solutionrelative:doanthuctapchuyennganh\\areas\\admin\\views\\category\\formeditcategories.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|c:\\vangiap\\th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\thuc tap chuyen nhanh webdemo\\projects\\doanthuctapchuyennganh\\doanthuctapchuyennganh.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|solutionrelative:doanthuctapchuyennganh\\doanthuctapchuyennganh.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|c:\\vangiap\\th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\thuc tap chuyen nhanh webdemo\\projects\\doanthuctapchuyennganh\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|solutionrelative:doanthuctapchuyennganh\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|c:\\vangiap\\th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\thuc tap chuyen nhanh webdemo\\projects\\doanthuctapchuyennganh\\areas\\admin\\views\\brand\\formaddbrands.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|solutionrelative:doanthuctapchuyennganh\\areas\\admin\\views\\brand\\formaddbrands.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|c:\\vangiap\\th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\thuc tap chuyen nhanh webdemo\\projects\\doanthuctapchuyennganh\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|solutionrelative:doanthuctapchuyennganh\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|c:\\vangiap\\th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\thuc tap chuyen nhanh webdemo\\projects\\doanthuctapchuyennganh\\doanthuctapchuyennganh.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|solutionrelative:doanthuctapchuyennganh\\doanthuctapchuyennganh.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|c:\\vangiap\\th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\thuc tap chuyen nhanh webdemo\\projects\\doanthuctapchuyennganh\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|solutionrelative:doanthuctapchuyennganh\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|c:\\vangiap\\th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\thuc tap chuyen nhanh webdemo\\projects\\doanthuctapchuyennganh\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|solutionrelative:doanthuctapchuyennganh\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|c:\\vangiap\\th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\thuc tap chuyen nhanh webdemo\\projects\\doanthuctapchuyennganh\\views\\shared\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|solutionrelative:doanthuctapchuyennganh\\views\\shared\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|c:\\vangiap\\th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\thuc tap chuyen nhanh webdemo\\projects\\doanthuctapchuyennganh\\views\\shared\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B236538-60AC-4AF2-BAF3-29FDFEFA5D79}|DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj|solutionrelative:doanthuctapchuyennganh\\views\\shared\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,11 +266,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 15,
+          "SelectedChildIndex": 56,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
             },
             {
               "$type": "Bookmark",
@@ -98,206 +290,774 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_AdminLayout.cshtml",
-              "DocumentMoniker": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Mainweb\\DoanThucTapChuyenNganh\\Projects\\DoanThucTapChuyenNganh\\Views\\Shared\\_AdminLayout.cshtml",
-              "RelativeDocumentMoniker": "DoanThucTapChuyenNganh\\Views\\Shared\\_AdminLayout.cshtml",
-              "ToolTip": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Mainweb\\DoanThucTapChuyenNganh\\Projects\\DoanThucTapChuyenNganh\\Views\\Shared\\_AdminLayout.cshtml",
-              "RelativeToolTip": "DoanThucTapChuyenNganh\\Views\\Shared\\_AdminLayout.cshtml",
-              "ViewState": "AgIAADEBAAAAAAAAAAAYwEgBAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-29T05:00:25.637Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Mainweb\\DoanThucTapChuyenNganh\\Projects\\DoanThucTapChuyenNganh\\Views\\Brand\\Index.cshtml",
-              "RelativeDocumentMoniker": "DoanThucTapChuyenNganh\\Views\\Brand\\Index.cshtml",
-              "ToolTip": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Mainweb\\DoanThucTapChuyenNganh\\Projects\\DoanThucTapChuyenNganh\\Views\\Brand\\Index.cshtml",
-              "RelativeToolTip": "DoanThucTapChuyenNganh\\Views\\Brand\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-29T04:34:50.321Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Products.cshtml",
-              "DocumentMoniker": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Mainweb\\DoanThucTapChuyenNganh\\Projects\\DoanThucTapChuyenNganh\\Views\\Admin\\Products.cshtml",
-              "RelativeDocumentMoniker": "DoanThucTapChuyenNganh\\Views\\Admin\\Products.cshtml",
-              "ToolTip": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Mainweb\\DoanThucTapChuyenNganh\\Projects\\DoanThucTapChuyenNganh\\Views\\Admin\\Products.cshtml",
-              "RelativeToolTip": "DoanThucTapChuyenNganh\\Views\\Admin\\Products.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-29T04:23:39.959Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Mainweb\\DoanThucTapChuyenNganh\\Projects\\DoanThucTapChuyenNganh\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "DoanThucTapChuyenNganh\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Mainweb\\DoanThucTapChuyenNganh\\Projects\\DoanThucTapChuyenNganh\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "DoanThucTapChuyenNganh\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-29T04:23:33.7Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Mainweb\\DoanThucTapChuyenNganh\\Projects\\DoanThucTapChuyenNganh\\Program.cs",
-              "RelativeDocumentMoniker": "DoanThucTapChuyenNganh\\Program.cs",
-              "ToolTip": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Mainweb\\DoanThucTapChuyenNganh\\Projects\\DoanThucTapChuyenNganh\\Program.cs",
-              "RelativeToolTip": "DoanThucTapChuyenNganh\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T04:23:26.634Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Brand.cs",
-              "DocumentMoniker": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Mainweb\\DoanThucTapChuyenNganh\\Projects\\DoanThucTapChuyenNganh\\Models\\Brand.cs",
-              "RelativeDocumentMoniker": "DoanThucTapChuyenNganh\\Models\\Brand.cs",
-              "ToolTip": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Mainweb\\DoanThucTapChuyenNganh\\Projects\\DoanThucTapChuyenNganh\\Models\\Brand.cs",
-              "RelativeToolTip": "DoanThucTapChuyenNganh\\Models\\Brand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T04:20:19.928Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Mainweb\\DoanThucTapChuyenNganh\\Projects\\DoanThucTapChuyenNganh\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "DoanThucTapChuyenNganh\\Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Mainweb\\DoanThucTapChuyenNganh\\Projects\\DoanThucTapChuyenNganh\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "DoanThucTapChuyenNganh\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T04:17:51.293Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Mainweb\\DoanThucTapChuyenNganh\\Projects\\DoanThucTapChuyenNganh\\Models\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "DoanThucTapChuyenNganh\\Models\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Mainweb\\DoanThucTapChuyenNganh\\Projects\\DoanThucTapChuyenNganh\\Models\\ApplicationDbContext.cs",
-              "RelativeToolTip": "DoanThucTapChuyenNganh\\Models\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Title": "UserViewModels.cs",
+              "DocumentMoniker": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\ViewModels\\UserViewModels.cs",
+              "RelativeDocumentMoniker": "DoanThucTapChuyenNganh\\ViewModels\\UserViewModels.cs",
+              "ToolTip": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\ViewModels\\UserViewModels.cs",
+              "RelativeToolTip": "DoanThucTapChuyenNganh\\ViewModels\\UserViewModels.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T04:05:15.784Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Mainweb\\DoanThucTapChuyenNganh\\Projects\\DoanThucTapChuyenNganh\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "DoanThucTapChuyenNganh\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Mainweb\\DoanThucTapChuyenNganh\\Projects\\DoanThucTapChuyenNganh\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "DoanThucTapChuyenNganh\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAYwDcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T03:57:45.706Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Mainweb\\DoanThucTapChuyenNganh\\Projects\\DoanThucTapChuyenNganh\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "DoanThucTapChuyenNganh\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Mainweb\\DoanThucTapChuyenNganh\\Projects\\DoanThucTapChuyenNganh\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "DoanThucTapChuyenNganh\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T03:57:27.701Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AdminController.cs",
-              "DocumentMoniker": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Mainweb\\DoanThucTapChuyenNganh\\Projects\\DoanThucTapChuyenNganh\\Controllers\\AdminController.cs",
-              "RelativeDocumentMoniker": "DoanThucTapChuyenNganh\\Controllers\\AdminController.cs",
-              "ToolTip": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Mainweb\\DoanThucTapChuyenNganh\\Projects\\DoanThucTapChuyenNganh\\Controllers\\AdminController.cs",
-              "RelativeToolTip": "DoanThucTapChuyenNganh\\Controllers\\AdminController.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAYwBcAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T03:57:25.017Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BrandController.cs",
-              "DocumentMoniker": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Mainweb\\DoanThucTapChuyenNganh\\Projects\\DoanThucTapChuyenNganh\\Controllers\\BrandController.cs",
-              "RelativeDocumentMoniker": "DoanThucTapChuyenNganh\\Controllers\\BrandController.cs",
-              "ToolTip": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Mainweb\\DoanThucTapChuyenNganh\\Projects\\DoanThucTapChuyenNganh\\Controllers\\BrandController.cs",
-              "RelativeToolTip": "DoanThucTapChuyenNganh\\Controllers\\BrandController.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAYwBAAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T03:57:11.169Z",
+              "WhenOpened": "2025-12-24T13:17:03.177Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Mainweb\\DoanThucTapChuyenNganh\\Projects\\DoanThucTapChuyenNganh\\Views\\Admin\\Index.cshtml",
-              "RelativeDocumentMoniker": "DoanThucTapChuyenNganh\\Views\\Admin\\Index.cshtml",
-              "ToolTip": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Mainweb\\DoanThucTapChuyenNganh\\Projects\\DoanThucTapChuyenNganh\\Views\\Admin\\Index.cshtml",
-              "RelativeToolTip": "DoanThucTapChuyenNganh\\Views\\Admin\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "formAddUser.cshtml",
+              "DocumentMoniker": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Areas\\Admin\\Views\\User\\formAddUser.cshtml",
+              "RelativeDocumentMoniker": "DoanThucTapChuyenNganh\\Areas\\Admin\\Views\\User\\formAddUser.cshtml",
+              "ToolTip": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Areas\\Admin\\Views\\User\\formAddUser.cshtml",
+              "RelativeToolTip": "DoanThucTapChuyenNganh\\Areas\\Admin\\Views\\User\\formAddUser.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEkAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-29T03:39:30.796Z"
+              "WhenOpened": "2025-12-23T16:14:53.103Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Settings.cshtml",
-              "DocumentMoniker": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Mainweb\\DoanThucTapChuyenNganh\\Projects\\DoanThucTapChuyenNganh\\Views\\Admin\\Settings.cshtml",
-              "RelativeDocumentMoniker": "DoanThucTapChuyenNganh\\Views\\Admin\\Settings.cshtml",
-              "ToolTip": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Mainweb\\DoanThucTapChuyenNganh\\Projects\\DoanThucTapChuyenNganh\\Views\\Admin\\Settings.cshtml",
-              "RelativeToolTip": "DoanThucTapChuyenNganh\\Views\\Admin\\Settings.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABGAAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "formRemoveUser.cshtml",
+              "DocumentMoniker": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Areas\\Admin\\Views\\User\\formRemoveUser.cshtml",
+              "RelativeDocumentMoniker": "DoanThucTapChuyenNganh\\Areas\\Admin\\Views\\User\\formRemoveUser.cshtml",
+              "ToolTip": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Areas\\Admin\\Views\\User\\formRemoveUser.cshtml",
+              "RelativeToolTip": "DoanThucTapChuyenNganh\\Areas\\Admin\\Views\\User\\formRemoveUser.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAUwE4AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-29T03:39:29.524Z"
+              "WhenOpened": "2025-12-23T16:10:46.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "DoanThucTapChuyenNganh\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "DoanThucTapChuyenNganh\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-20T03:53:33.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Cart.cshtml",
+              "DocumentMoniker": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Views\\Home\\Cart.cshtml",
+              "RelativeDocumentMoniker": "DoanThucTapChuyenNganh\\Views\\Home\\Cart.cshtml",
+              "ToolTip": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Views\\Home\\Cart.cshtml",
+              "RelativeToolTip": "DoanThucTapChuyenNganh\\Views\\Home\\Cart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-20T03:53:32.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "DoanThucTapChuyenNganh\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "DoanThucTapChuyenNganh\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-20T03:53:30.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "DoanThucTapChuyenNganh\\Models\\OrderDetail.cs",
+              "ToolTip": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "DoanThucTapChuyenNganh\\Models\\OrderDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T03:18:34.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProductDetail.cshtml",
+              "DocumentMoniker": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Views\\Home\\ProductDetail.cshtml",
+              "RelativeDocumentMoniker": "DoanThucTapChuyenNganh\\Views\\Home\\ProductDetail.cshtml",
+              "ToolTip": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Views\\Home\\ProductDetail.cshtml",
+              "RelativeToolTip": "DoanThucTapChuyenNganh\\Views\\Home\\ProductDetail.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAEIAAACfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-18T04:13:24.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "formEditUser.cshtml",
+              "DocumentMoniker": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Areas\\Admin\\Views\\User\\formEditUser.cshtml",
+              "RelativeDocumentMoniker": "DoanThucTapChuyenNganh\\Areas\\Admin\\Views\\User\\formEditUser.cshtml",
+              "ToolTip": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Areas\\Admin\\Views\\User\\formEditUser.cshtml",
+              "RelativeToolTip": "DoanThucTapChuyenNganh\\Areas\\Admin\\Views\\User\\formEditUser.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAEAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-16T04:40:07.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Areas\\Admin\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "DoanThucTapChuyenNganh\\Areas\\Admin\\Views\\User\\Index.cshtml",
+              "ToolTip": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Areas\\Admin\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "DoanThucTapChuyenNganh\\Areas\\Admin\\Views\\User\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-16T03:51:06.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Areas\\Admin\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "DoanThucTapChuyenNganh\\Areas\\Admin\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Areas\\Admin\\Controllers\\UserController.cs",
+              "RelativeToolTip": "DoanThucTapChuyenNganh\\Areas\\Admin\\Controllers\\UserController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAQwDoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T03:49:42.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "AdminBaseController.cs",
+              "DocumentMoniker": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Areas\\Admin\\Controllers\\AdminBaseController.cs",
+              "RelativeDocumentMoniker": "DoanThucTapChuyenNganh\\Areas\\Admin\\Controllers\\AdminBaseController.cs",
+              "ToolTip": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Areas\\Admin\\Controllers\\AdminBaseController.cs",
+              "RelativeToolTip": "DoanThucTapChuyenNganh\\Areas\\Admin\\Controllers\\AdminBaseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T07:32:31.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "DoanThucTapChuyenNganh\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "DoanThucTapChuyenNganh\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAUwDwBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-13T05:49:56.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterViewModels.cs",
+              "DocumentMoniker": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\ViewModels\\RegisterViewModels.cs",
+              "RelativeDocumentMoniker": "DoanThucTapChuyenNganh\\ViewModels\\RegisterViewModels.cs",
+              "ToolTip": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\ViewModels\\RegisterViewModels.cs",
+              "RelativeToolTip": "DoanThucTapChuyenNganh\\ViewModels\\RegisterViewModels.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T03:16:51.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginViewModels.cs",
+              "DocumentMoniker": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\ViewModels\\LoginViewModels.cs",
+              "RelativeDocumentMoniker": "DoanThucTapChuyenNganh\\ViewModels\\LoginViewModels.cs",
+              "ToolTip": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\ViewModels\\LoginViewModels.cs",
+              "RelativeToolTip": "DoanThucTapChuyenNganh\\ViewModels\\LoginViewModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T07:01:50.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Models\\User.cs",
+              "RelativeDocumentMoniker": "DoanThucTapChuyenNganh\\Models\\User.cs",
+              "ToolTip": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Models\\User.cs",
+              "RelativeToolTip": "DoanThucTapChuyenNganh\\Models\\User.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAcwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T06:56:48.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Models\\Brand.cs",
+              "RelativeDocumentMoniker": "DoanThucTapChuyenNganh\\Models\\Brand.cs",
+              "ToolTip": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Models\\Brand.cs",
+              "RelativeToolTip": "DoanThucTapChuyenNganh\\Models\\Brand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T07:46:04.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "DoanThucTapChuyenNganh\\Models\\Category.cs",
+              "ToolTip": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Models\\Category.cs",
+              "RelativeToolTip": "DoanThucTapChuyenNganh\\Models\\Category.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T07:24:59.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Products.cshtml",
+              "DocumentMoniker": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Views\\Home\\Products.cshtml",
+              "RelativeDocumentMoniker": "DoanThucTapChuyenNganh\\Views\\Home\\Products.cshtml",
+              "ToolTip": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Views\\Home\\Products.cshtml",
+              "RelativeToolTip": "DoanThucTapChuyenNganh\\Views\\Home\\Products.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAiwB8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-05T03:44:00.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "formDeleteProduct.cshtml",
+              "DocumentMoniker": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Areas\\Admin\\Views\\Product\\formDeleteProduct.cshtml",
+              "RelativeDocumentMoniker": "DoanThucTapChuyenNganh\\Areas\\Admin\\Views\\Product\\formDeleteProduct.cshtml",
+              "ToolTip": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Areas\\Admin\\Views\\Product\\formDeleteProduct.cshtml",
+              "RelativeToolTip": "DoanThucTapChuyenNganh\\Areas\\Admin\\Views\\Product\\formDeleteProduct.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAEYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-03T12:48:32.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "DoanThucTapChuyenNganh\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "DoanThucTapChuyenNganh\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T12:00:49.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "formEditProduct.cshtml",
+              "DocumentMoniker": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Areas\\Admin\\Views\\Product\\formEditProduct.cshtml",
+              "RelativeDocumentMoniker": "DoanThucTapChuyenNganh\\Areas\\Admin\\Views\\Product\\formEditProduct.cshtml",
+              "ToolTip": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Areas\\Admin\\Views\\Product\\formEditProduct.cshtml",
+              "RelativeToolTip": "DoanThucTapChuyenNganh\\Areas\\Admin\\Views\\Product\\formEditProduct.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-02T17:29:57.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "formCreateProduct.cshtml",
+              "DocumentMoniker": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Areas\\Admin\\Views\\Product\\formCreateProduct.cshtml",
+              "RelativeDocumentMoniker": "DoanThucTapChuyenNganh\\Areas\\Admin\\Views\\Product\\formCreateProduct.cshtml",
+              "ToolTip": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Areas\\Admin\\Views\\Product\\formCreateProduct.cshtml",
+              "RelativeToolTip": "DoanThucTapChuyenNganh\\Areas\\Admin\\Views\\Product\\formCreateProduct.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAACQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-02T17:09:15.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "DoanThucTapChuyenNganh\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "DoanThucTapChuyenNganh\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAADUAAAAAAAAAAAAswEwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-02T15:15:11.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "DoanThucTapChuyenNganh\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "DoanThucTapChuyenNganh\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAlwF0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T15:13:51.62Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "DoanThucTapChuyenNganh.csproj",
-              "DocumentMoniker": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Mainweb\\DoanThucTapChuyenNganh\\Projects\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj",
+              "Title": "formRemoveCategories.cshtml",
+              "DocumentMoniker": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Areas\\Admin\\Views\\Category\\formRemoveCategories.cshtml",
+              "RelativeDocumentMoniker": "DoanThucTapChuyenNganh\\Areas\\Admin\\Views\\Category\\formRemoveCategories.cshtml",
+              "ToolTip": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Areas\\Admin\\Views\\Category\\formRemoveCategories.cshtml",
+              "RelativeToolTip": "DoanThucTapChuyenNganh\\Areas\\Admin\\Views\\Category\\formRemoveCategories.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-02T14:50:58.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "DoanThucTapChuyenNganh\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "DoanThucTapChuyenNganh\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T14:31:02.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "DoanThucTapChuyenNganh\\Models\\Order.cs",
+              "ToolTip": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Models\\Order.cs",
+              "RelativeToolTip": "DoanThucTapChuyenNganh\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T14:31:01.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "DoanThucTapChuyenNganh\\Models\\Product.cs",
+              "ToolTip": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Models\\Product.cs",
+              "RelativeToolTip": "DoanThucTapChuyenNganh\\Models\\Product.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAADwvy8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T14:30:44.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "formRemoveBrands.cshtml",
+              "DocumentMoniker": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Areas\\Admin\\Views\\Brand\\formRemoveBrands.cshtml",
+              "RelativeDocumentMoniker": "DoanThucTapChuyenNganh\\Areas\\Admin\\Views\\Brand\\formRemoveBrands.cshtml",
+              "ToolTip": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Areas\\Admin\\Views\\Brand\\formRemoveBrands.cshtml",
+              "RelativeToolTip": "DoanThucTapChuyenNganh\\Areas\\Admin\\Views\\Brand\\formRemoveBrands.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAawBoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-02T14:29:49.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "formEditCategories.cshtml",
+              "DocumentMoniker": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Areas\\Admin\\Views\\Category\\formEditCategories.cshtml",
+              "RelativeDocumentMoniker": "DoanThucTapChuyenNganh\\Areas\\Admin\\Views\\Category\\formEditCategories.cshtml",
+              "ToolTip": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Areas\\Admin\\Views\\Category\\formEditCategories.cshtml",
+              "RelativeToolTip": "DoanThucTapChuyenNganh\\Areas\\Admin\\Views\\Category\\formEditCategories.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAABBwBUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-02T14:25:58.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "DoanThucTapChuyenNganh",
+              "DocumentMoniker": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj",
               "RelativeDocumentMoniker": "DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj",
-              "ToolTip": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Mainweb\\DoanThucTapChuyenNganh\\Projects\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj",
+              "ToolTip": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj",
               "RelativeToolTip": "DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAUwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-29T03:31:51.725Z"
+              "WhenOpened": "2025-12-02T14:19:06.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "formAddCategory.cshtml",
+              "DocumentMoniker": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Areas\\Admin\\Views\\Category\\formAddCategory.cshtml",
+              "RelativeDocumentMoniker": "DoanThucTapChuyenNganh\\Areas\\Admin\\Views\\Category\\formAddCategory.cshtml",
+              "ToolTip": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Areas\\Admin\\Views\\Category\\formAddCategory.cshtml",
+              "RelativeToolTip": "DoanThucTapChuyenNganh\\Areas\\Admin\\Views\\Category\\formAddCategory.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T16:27:43.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "DoanThucTapChuyenNganh\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "DoanThucTapChuyenNganh\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-29T16:15:34.619Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "DoanThucTapChuyenNganh",
-              "DocumentMoniker": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Mainweb\\DoanThucTapChuyenNganh\\Projects\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj",
-              "RelativeDocumentMoniker": "DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj",
-              "ToolTip": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Mainweb\\DoanThucTapChuyenNganh\\Projects\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj",
-              "RelativeToolTip": "DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-29T03:31:46.297Z"
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "DoanThucTapChuyenNganh\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "DoanThucTapChuyenNganh\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAcwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T15:25:31.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "DoanThucTapChuyenNganh\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "DoanThucTapChuyenNganh\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUDAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-29T15:04:05.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DoanThucTapChuyenNganh\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DoanThucTapChuyenNganh\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAswBsAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T10:16:10.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\appsettings.json",
+              "RelativeDocumentMoniker": "DoanThucTapChuyenNganh\\appsettings.json",
+              "ToolTip": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\appsettings.json",
+              "RelativeToolTip": "DoanThucTapChuyenNganh\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-29T09:54:29.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "DoanThucTapChuyenNganh\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "DoanThucTapChuyenNganh\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-29T09:54:20.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "DoanThucTapChuyenNganh\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "DoanThucTapChuyenNganh\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-29T09:54:12.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Views\\Shared\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "DoanThucTapChuyenNganh\\Views\\Shared\\_ViewStart.cshtml",
+              "ToolTip": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Views\\Shared\\_ViewStart.cshtml",
+              "RelativeToolTip": "DoanThucTapChuyenNganh\\Views\\Shared\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-29T09:54:08.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Views\\Shared\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "DoanThucTapChuyenNganh\\Views\\Shared\\_ViewImports.cshtml",
+              "ToolTip": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Views\\Shared\\_ViewImports.cshtml",
+              "RelativeToolTip": "DoanThucTapChuyenNganh\\Views\\Shared\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-29T09:54:09.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Products.cshtml",
+              "DocumentMoniker": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Areas\\Admin\\Views\\Home\\Products.cshtml",
+              "RelativeDocumentMoniker": "DoanThucTapChuyenNganh\\Areas\\Admin\\Views\\Home\\Products.cshtml",
+              "ToolTip": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Areas\\Admin\\Views\\Home\\Products.cshtml",
+              "RelativeToolTip": "DoanThucTapChuyenNganh\\Areas\\Admin\\Views\\Home\\Products.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-29T09:32:58.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Settings.cshtml",
+              "DocumentMoniker": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Areas\\Admin\\Views\\Home\\Settings.cshtml",
+              "RelativeDocumentMoniker": "DoanThucTapChuyenNganh\\Areas\\Admin\\Views\\Home\\Settings.cshtml",
+              "ToolTip": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Areas\\Admin\\Views\\Home\\Settings.cshtml",
+              "RelativeToolTip": "DoanThucTapChuyenNganh\\Areas\\Admin\\Views\\Home\\Settings.cshtml",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-29T09:29:20.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Help.cshtml",
+              "DocumentMoniker": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Areas\\Admin\\Views\\Home\\Help.cshtml",
+              "RelativeDocumentMoniker": "DoanThucTapChuyenNganh\\Areas\\Admin\\Views\\Home\\Help.cshtml",
+              "ToolTip": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Areas\\Admin\\Views\\Home\\Help.cshtml",
+              "RelativeToolTip": "DoanThucTapChuyenNganh\\Areas\\Admin\\Views\\Home\\Help.cshtml",
+              "ViewState": "AgIAAHcBAAAAAAAAAAAAAKwBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-29T09:27:58.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "DoanThucTapChuyenNganh\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "DoanThucTapChuyenNganh\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAIcBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-29T09:27:33.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "formEditBrands.cshtml",
+              "DocumentMoniker": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Areas\\Admin\\Views\\Brand\\formEditBrands.cshtml",
+              "RelativeDocumentMoniker": "DoanThucTapChuyenNganh\\Areas\\Admin\\Views\\Brand\\formEditBrands.cshtml",
+              "ToolTip": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Areas\\Admin\\Views\\Brand\\formEditBrands.cshtml",
+              "RelativeToolTip": "DoanThucTapChuyenNganh\\Areas\\Admin\\Views\\Brand\\formEditBrands.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-29T09:04:40.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "formAddBrands.cshtml",
+              "DocumentMoniker": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Areas\\Admin\\Views\\Brand\\formAddBrands.cshtml",
+              "RelativeDocumentMoniker": "DoanThucTapChuyenNganh\\Areas\\Admin\\Views\\Brand\\formAddBrands.cshtml",
+              "ToolTip": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Areas\\Admin\\Views\\Brand\\formAddBrands.cshtml",
+              "RelativeToolTip": "DoanThucTapChuyenNganh\\Areas\\Admin\\Views\\Brand\\formAddBrands.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAABBwBkAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-29T08:56:35.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "DoanThucTapChuyenNganh\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "DoanThucTapChuyenNganh\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-29T08:58:40.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "DoanThucTapChuyenNganh\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "DoanThucTapChuyenNganh\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-29T08:58:31.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Areas\\Admin\\Views\\Brand\\Index.cshtml",
+              "RelativeDocumentMoniker": "DoanThucTapChuyenNganh\\Areas\\Admin\\Views\\Brand\\Index.cshtml",
+              "ToolTip": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Areas\\Admin\\Views\\Brand\\Index.cshtml",
+              "RelativeToolTip": "DoanThucTapChuyenNganh\\Areas\\Admin\\Views\\Brand\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-29T08:56:36.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_SubPageLayout.cshtml",
+              "DocumentMoniker": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Views\\Shared\\_SubPageLayout.cshtml",
+              "RelativeDocumentMoniker": "DoanThucTapChuyenNganh\\Views\\Shared\\_SubPageLayout.cshtml",
+              "ToolTip": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Views\\Shared\\_SubPageLayout.cshtml*",
+              "RelativeToolTip": "DoanThucTapChuyenNganh\\Views\\Shared\\_SubPageLayout.cshtml*",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-29T08:49:15.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ForgotPassword.cshtml",
+              "DocumentMoniker": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Views\\Account\\ForgotPassword.cshtml",
+              "RelativeDocumentMoniker": "DoanThucTapChuyenNganh\\Views\\Account\\ForgotPassword.cshtml",
+              "ToolTip": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Views\\Account\\ForgotPassword.cshtml",
+              "RelativeToolTip": "DoanThucTapChuyenNganh\\Views\\Account\\ForgotPassword.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAC8AAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-29T08:44:47.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "DoanThucTapChuyenNganh\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "DoanThucTapChuyenNganh\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-29T08:44:38.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DoanThucTapChuyenNganh\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DoanThucTapChuyenNganh\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-29T08:41:01.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DoanThucTapChuyenNganh\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DoanThucTapChuyenNganh\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T08:40:03.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "BrandController.cs",
+              "DocumentMoniker": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Areas\\Admin\\Controllers\\BrandController.cs",
+              "RelativeDocumentMoniker": "DoanThucTapChuyenNganh\\Areas\\Admin\\Controllers\\BrandController.cs",
+              "ToolTip": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Areas\\Admin\\Controllers\\BrandController.cs",
+              "RelativeToolTip": "DoanThucTapChuyenNganh\\Areas\\Admin\\Controllers\\BrandController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAlwEMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T08:28:15.468Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "DoanThucTapChuyenNganh",
-              "DocumentMoniker": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Mainweb\\DoanThucTapChuyenNganh\\Projects\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj",
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DoanThucTapChuyenNganh\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DoanThucTapChuyenNganh\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T08:27:23.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "DoanThucTapChuyenNganh\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "DoanThucTapChuyenNganh\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwFIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-29T08:24:09.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "DoanThucTapChuyenNganh\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "DoanThucTapChuyenNganh\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAADwvyoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T08:22:47.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DoanThucTapChuyenNganh\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DoanThucTapChuyenNganh\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAAAI8AAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-29T05:00:35.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Program.cs",
+              "RelativeDocumentMoniker": "DoanThucTapChuyenNganh\\Program.cs",
+              "ToolTip": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\Program.cs",
+              "RelativeToolTip": "DoanThucTapChuyenNganh\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T04:56:51.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "DoanThucTapChuyenNganh\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "DoanThucTapChuyenNganh\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-11-29T04:54:47.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "DoanThucTapChuyenNganh.csproj",
+              "DocumentMoniker": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj",
               "RelativeDocumentMoniker": "DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj",
-              "ToolTip": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Mainweb\\DoanThucTapChuyenNganh\\Projects\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj",
+              "ToolTip": "C:\\VANGIAP\\Th\u1EF1c t\u1EADp chuy\u00EAn ng\u00E0nh\\Thuc tap chuyen nhanh webdemo\\Projects\\DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj",
               "RelativeToolTip": "DoanThucTapChuyenNganh\\DoanThucTapChuyenNganh.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-29T02:23:03.698Z"
+              "WhenOpened": "2025-11-29T04:51:52.946Z"
             }
           ]
         }

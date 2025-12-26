@@ -1,0 +1,107 @@
+﻿@model IEnumerable<DoanThucTapChuyenNganh.Models.User>
+
+@{
+    ViewData["Title"] = "Danh sách người dùng";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+<div class="app-content pt-3 p-md-3 p-lg-4 mt-5">
+    <div class="container-xl">
+
+<h1>Danh sách người dùng</h1>
+
+<p>
+    <a asp-action="formAddUser" class="btn btn-primary">Tạo mới</a>
+</p>
+        <table class="table table-hover align-content-center text-center">
+            <thead class="table-dark">
+        <tr>
+
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UserName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PasswordHash)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FullName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Phone)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Address)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CreatedAt)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IsAdmin)
+            </th>
+            <th>
+                        @Html.DisplayNameFor(model => model.IsLocked)
+            </th>
+            <th>Chức năng</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+
+                <td> 
+                    @item.Id
+                </td>
+                <td>
+                    @item.UserName
+                </td>
+                <td>
+                    @(item.PasswordHash != null && item.PasswordHash.Length > 10 ? item.PasswordHash.Substring(0, 10) + "..." : item.PasswordHash)
+                </td>
+                <td>
+                    @(item.FullName ?? "Chưa cập nhật")
+                </td>
+                <td>
+                    @(item.Email ?? "Chưa có Email")
+                </td>
+                <td>
+                    @(item.Phone ?? "---")
+                </td>
+                <td>
+                    @(item.Address ?? "Chưa có địa chỉ")
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CreatedAt)
+                </td>
+                        <td>
+                            @(item.IsAdmin == true ? "Quản trị viên" : "Khách hàng")
+                        </td>
+                        <td>
+                            @if (item.IsLocked)
+                            {
+                                <a href="/Admin/User/ToggleBlock?id=@item.Id" class="btn btn-danger">Đang bị khóa </a>
+                            }
+                            else
+                            {
+                                <a href="/Admin/User/ToggleBlock?id=@item.Id" class="btn btn-success">Đang hoạt động </a>
+                            }
+
+                            
+                        </td>
+                       
+                        <td class="d-flex gap-3 justify-content-center">
+                            <a asp-area="Admin" asp-controller="User" asp-action="formEditUser" asp-route-id="@item.Id" as class="text-warning"><i class="fa-solid fa-pen-to-square"></i></a>
+                            <a asp-controller="User" asp-action="formRemoveUser" asp-route-id="@item.Id" class="text-danger"><i class="fa-solid fa-trash"></i></a>
+                        </td>
+                       
+            </tr>
+        }
+    </tbody>
+</table>
+</div>
+</div>

@@ -1,0 +1,45 @@
+﻿@model DoanThucTapChuyenNganh.Models.Category
+
+@{
+    ViewData["Title"] = "formRemoveCategories";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+<div class="app-content pt-3 p-md-3 p-lg-4 mt-5">
+    <div class="container-xl">
+        <div class="card shadow mb-4">
+            <div class="card-header bg-danger text-white">
+                <h3 class="mb-0">Xác nhận xóa loại sản phẩm</h3>
+            </div>
+            <div class="card-body">
+                <div class="text-danger lead d-flex flex-column">
+                    <div class="flex-row"><i class="bi bi-exclamation-triangle-fill"></i> Bạn thật sự muốn xóa loại sản phẩm này?</div>
+                    <span class="small fst-italic fw-normal text-muted">** Hành động này không thể hoàn tác **</span>
+                </div>
+
+                <hr />
+
+                <dl class="row mb-4">
+                    <dt class="col-sm-3 text-start text-md-end fw-bold">
+                       @Html.DisplayNameFor(model => model.Name)
+                    </dt>
+                    <dd class="col-sm-9">
+                        @Html.DisplayFor(model => model.Name)
+                    </dd>
+    </dl>
+    
+    <form asp-action="RemoveCategories">
+        <input type="hidden" asp-for="Id" />
+                    <button type="submit" class="btn btn-danger me-2">
+                        <i class="bi bi-trash-fill"></i> Xác nhận Xóa
+                    </button>
+
+                    <a asp-action="Index" class="btn btn-primary">
+                        <i class="bi bi-arrow-left"></i> Trở về Danh sách
+                    </a>
+    </form>
+</div>
+        </div>
+    </div>
+</div>
+

@@ -1,0 +1,49 @@
+﻿@model IEnumerable<DoanThucTapChuyenNganh.Models.Brand>
+@{
+    ViewData["Title"] = "Brands";
+    Layout = "/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+<div class="app-content pt-3 p-md-3 p-lg-4 mt-5">
+    <div class="container-xl">
+
+        <h1>Danh sách thương hiệu</h1>
+
+        <p>
+            <a asp-controller="Brand" asp-action="formAddBrands" class="btn btn-primary">Thêm nhà sản xuất</a>
+        </p>
+        
+            <table class="table table-hover align-content-center text-center">
+                <thead class="table-dark">
+                    <tr>
+                    <th>@Html.DisplayNameFor(modelItem => modelItem.Id)</th>
+                    
+                    <th>@Html.DisplayNameFor(modelItem=>modelItem.Name)</th>
+                    <th>@Html.DisplayNameFor(modelItem => modelItem.Country)</th>
+                        <th>Tác vụ</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @{
+                        foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>@item.Id</td>
+                                <td>@item.Name</td>
+                                <td>@item.Country</td>
+                                <td class="d-flex gap-3 justify-content-center">
+                                    <a asp-controller="Brand" asp-action="formEditBrands" asp-route-id="@item.Id" as class="text-warning"><i class="fa-solid fa-pen-to-square"></i></a>
+                                    <a asp-controller="Brand" asp-action="formRemoveBrands" asp-route-id="@item.Id" class="text-danger"><i class="fa-solid fa-trash"></i></a>
+                                </td>
+
+
+                            </tr>
+                        }
+
+                    }
+
+                </tbody>
+            </table>
+
+      
+    </div>
+</div>

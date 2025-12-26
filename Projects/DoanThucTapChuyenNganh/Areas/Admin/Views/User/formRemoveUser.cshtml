@@ -1,0 +1,79 @@
+﻿@model DoanThucTapChuyenNganh.Models.User
+
+@{
+    ViewData["Title"] = "Xóa tài khoản người dùng";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+<div class="app-content pt-3 p-md-3 p-lg-4 mt-5">
+    <div class="container-xl">
+        <div class="card shadow mb-4">
+            <div class="card-header bg-danger text-white">
+                <h3 class="mb-0">Xác nhận xóa tài khoản</h3>
+            </div>
+
+            <div class="card-body">
+                <div class="text-danger lead d-flex flex-column mb-3">
+                    <div class="flex-row">
+                        <i class="bi bi-exclamation-triangle-fill"></i>
+                        Bạn thật sự muốn xóa người dùng này?
+                    </div>
+                    <span class="small fst-italic fw-normal text-muted">
+                        ** Hành động này không thể hoàn tác và sẽ mất toàn bộ dữ liệu liên quan **
+                    </span>
+                </div>
+
+                <hr />
+
+                <dl class="row mb-4">
+                    <dt class="col-sm-3 text-start text-md-end fw-bold">
+                        @Html.DisplayNameFor(model => model.FullName)
+                    </dt>
+                    <dd class="col-sm-9">
+                        @Html.DisplayFor(model => model.FullName)
+                    </dd>
+
+                    <dt class="col-sm-3 text-start text-md-end fw-bold">
+                        @Html.DisplayNameFor(model => model.UserName)
+                    </dt>
+                    <dd class="col-sm-9">
+                        @Html.DisplayFor(model => model.UserName)
+                    </dd>
+
+                    <dt class="col-sm-3 text-start text-md-end fw-bold">
+                        @Html.DisplayNameFor(model => model.Email)
+                    </dt>
+                    <dd class="col-sm-9">
+                        @Html.DisplayFor(model => model.Email)
+                    </dd>
+
+                    <dt class="col-sm-3 text-start text-md-end fw-bold">
+                        @Html.DisplayNameFor(model => model.IsAdmin)
+                    </dt>
+                    <dd class="col-sm-9">
+                        @if (Model.IsAdmin == true)
+                        {
+                            <span class="badge bg-primary">Quản trị viên</span>
+                        }
+                        else
+                        {
+                            <span class="badge bg-secondary">Khách hàng</span>
+                        }
+                    </dd>
+                </dl>
+
+                <form asp-action="RemoveUser">
+                    <input type="hidden" asp-for="Id" />
+
+                    <button type="submit" class="btn btn-danger me-2">
+                        <i class="bi bi-trash-fill"></i> Xác nhận Xóa vĩnh viễn
+                    </button>
+
+                    <a asp-action="Index" class="btn btn-primary">
+                        <i class="bi bi-arrow-left"></i> Trở về Danh sách
+                    </a>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

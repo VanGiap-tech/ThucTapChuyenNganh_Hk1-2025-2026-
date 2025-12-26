@@ -1,67 +1,84 @@
-﻿@{
+﻿@using DoanThucTapChuyenNganh.ViewModels
+@model LoginViewModel
+@{
     ViewData["Title"] = "Đăng nhập";
     Layout = null;
 }
 <!DOCTYPE html>
 <html>
-
 <head>
     <meta charset="utf-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-    <meta name="keywords" content="" />
-    <meta name="description" content="" />
-    <meta name="author" content="" />
-
-    <link rel="shortcut icon" href="~/images/Shoplogo.png" type="image/x-icon">
     <title>@ViewData["Title"] - HG Billiards Shop</title>
-
-    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-nice-select/1.1.0/css/nice-select.min.css" integrity="sha512-CruCP+TD3yXzlvvijET8wV5WxxEh5H8P4cmz0RFbKK6FlZ2sYl3AEsKlLPHbniXKSrDdFewhbmBK5skbdsASbQ==" crossorigin="anonymous" />
 
     <link rel="stylesheet" type="text/css" href="~/css/bootstrap.css" asp-append-version="true" />
     <link href="~/css/font-awesome.min.css" rel="stylesheet" asp-append-version="true" />
-    
     <link href="~/css/style.css" rel="stylesheet" asp-append-version="true" />
     <link href="~/css/site.css" rel="stylesheet" asp-append-version="true" />
-    <link href="~/css/responsive.css" rel="stylesheet" asp-append-version="true" />
-    <script src="https://kit.fontawesome.com/2a511f8519.js" crossorigin="anonymous"></script>
-</head>
-<body>
 
-    <div class="container">
-        <div class="body d-md-flex align-items-center justify-content-between ">
-            <div class="box-1 mt-md-1 mt-5">
-                <img src="https://images.pexels.com/photos/2033997/pexels-photo-2033997.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
-                     class="" alt="">
-            </div>
-            <div class=" box-2 d-flex flex-column h-100 ">
-               <div class="mt-5">
-                    <p class="mb-1 h-1">Đăng nhập</p>
-                    <p class="text-muted mb-2">Vui lòng điền thông tin đăng nhập!</p>
-                    <div class="d-flex flex-column ">
-                        <form > 
-                            <input class="py-1 w-100 form-check mb-2 custom-rounded-input" type="text" id="username" placeholder="Username" />
-                            <input class="py-1 w-100 form-check mb-3 custom-rounded-input" type="password" id="password" placeholder="Password" />
-                            
-                        </form>
-                        <a class="btn btn-primary bg-primary py-2 text-white" asp-controller="Admin" asp-action="Index">Đăng nhập</a>
-                        <div class="d-flex align-items-center">
+    <script src="https://kit.fontawesome.com/2a511f8519.js" crossorigin="anonymous"></script>
+    <style>
+        /* Copy style từ Register nếu có */
+    </style>
+</head>
+
+<body style="background-color: #f8f9fa;" class="d-flex align-items-center min-vh-100">
+
+    <div class="w-100 px-3 py-5">
+
+        <div class="container container-custom p-0 bg-white shadow rounded overflow-hidden mx-auto" style="max-width: 900px;">
+
+            <div class="row m-0 w-100 h-100">
+                <div class="col-md-6 p-0 d-none d-md-block box-1">
+                    <img src="https://images.pexels.com/photos/2033997/pexels-photo-2033997.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+                         alt="Billiards" class="w-100 h-100" style="object-fit: cover;">
+                </div>
+
+                <div class="col-md-6 p-0 position-relative">
+                    <a class="fas fa-times text-danger position-absolute"
+                       style="top: 15px; right: 20px; font-size: 20px; text-decoration: none; z-index: 10;"
+                       asp-controller="Home" asp-action="Index"></a>
+
+                    <div class="register-box p-4">
+                        <div class="mb-4">
+                            <h3 class="font-weight-bold">Đăng nhập</h3>
+                            <p class="text-muted" style="font-size: 14px;">Vui lòng điền thông tin đăng nhập!</p>
+                            <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
                         </div>
-                        <div class="mt-3  d-flex justify-content-between">
-                          <div class="">
-                                <a class="mb-0 text-muted" asp-controller="Account" asp-action="Register">Bạn chưa có mật khẩu?</a>
-                                
-                          </div>
-                          <div class="text-muted">
-                                <a class="text-muted" asp-controller="Account" asp-action="ForgotPassword">Quên mật khẩu?</a>
-                          </div>
+
+                        <form asp-controller="Account" asp-action="ChuyenTrang" method="post">
+                            <div class="input-wrapper mb-3">
+                                <input asp-for="Username" class="form-control py-2" placeholder="Tên đăng nhập" />
+                                <span asp-validation-for="Username" class="text-danger small"></span>
+                            </div>
+
+                            <div class="input-wrapper mb-3">
+                                <input asp-for="Password" class="form-control py-2" type="password" placeholder="Mật khẩu" />
+                                <span asp-validation-for="Password" class="text-danger small"></span>
+                            </div>
+
+                            <button class="btn btn-primary bg-primary py-2 text-white w-100 mt-2" type="submit">
+                                Đăng nhập
+                            </button>
+                        </form>
+
+                        <div class="mt-4 text-center d-flex justify-content-between align-items-center">
+                            <div>
+                                <span class="text-muted small">Chưa có tài khoản? </span>
+                                <a class="font-weight-bold text-primary" asp-controller="Account" asp-action="Register">Đăng ký ngay</a>
+                            </div>
+                            <div>
+                                <a class="text-muted small" asp-controller="Account" asp-action="ForgotPassword">Quên mật khẩu?</a>
+                            </div>
                         </div>
                     </div>
                 </div>
-              
             </div>
-            <a class="fas fa-times text-bg-danger mb-2" asp-controller="Home" asp-action="Index"></a>
         </div>
     </div>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
 </body>
+</html>

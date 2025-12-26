@@ -1,0 +1,109 @@
+﻿@model IEnumerable<DoanThucTapChuyenNganh.Models.Product>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+<div class="app-content pt-3 p-md-3 p-lg-4 mt-5">
+    <div class="container-xl">
+<h1>Danh sách sản phẩm</h1>
+
+<p>
+    <a asp-area="Admin" asp-controller="Product" asp-action="formCreateProduct">Create New</a>
+</p>
+        <table class="table  table-hover align-content-center text-center">
+            <thead class="table-dark">
+        <tr>
+                    <th>
+                        @Html.DisplayNameFor(modelItem =>modelItem.Id)
+                    </th>
+            <th>
+                        @Html.DisplayNameFor(modelItem => modelItem.Name)
+
+            </th>
+            <th>
+                        @Html.DisplayNameFor(modelItem => modelItem.Description)
+
+            </th>
+            <th>
+                        @Html.DisplayNameFor(modelItem => modelItem.Price)
+
+            </th>
+            <th>
+                        @Html.DisplayNameFor(modelItem => modelItem.ImageUrl)
+
+            </th>
+            <th>
+                        @Html.DisplayNameFor(modelItem => modelItem.StockQuantity)
+
+            </th>
+            <th>
+                        @Html.DisplayNameFor(modelItem => modelItem.Weight)
+
+                    </th>
+            <th>
+                        @Html.DisplayNameFor(modelItem => modelItem.Material)
+
+            </th>
+            <th>
+                        @Html.DisplayNameFor(modelItem => modelItem.Brand)
+
+            </th>
+            <th>
+                        @Html.DisplayNameFor(modelItem => modelItem.Category)
+
+                    </th>
+            <th>Tác vụ</th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)   
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Price)
+            </td>
+                        <td>
+                            @if (!string.IsNullOrEmpty(item.ImageUrl))
+                            {
+                                <img src="~/images/products/@item.ImageUrl" class="product-thumbnail" style="width:60px;" alt="@item.Name">
+                            }
+                            else
+                            {
+                                <span>No image</span>
+                            }
+                        </td>
+                      
+            <td>
+                @Html.DisplayFor(modelItem => item.StockQuantity)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Weight)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Material)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Brand.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Category.Name)
+            </td>
+                        <td class="d-flex gap-3 justify-content-center">
+                            <a asp-controller="Product" asp-action="formEditProduct" asp-route-id="@item.Id" as class="text-warning"><i class="fa-solid fa-pen-to-square"></i></a>
+                            <a asp-controller="Product" asp-action="formDeleteProduct" asp-route-id="@item.Id" class="text-danger"><i class="fa-solid fa-trash"></i></a>
+                        </td>
+        </tr>
+}
+    </tbody>
+</table>
+</div>
+</div>

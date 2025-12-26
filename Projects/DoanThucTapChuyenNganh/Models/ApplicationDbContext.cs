@@ -43,14 +43,14 @@ public partial class ApplicationDbContext : DbContext
             entity.Property(e => e.Name).HasMaxLength(100);
         });
 
-        modelBuilder.Entity<Order>(entity =>
-        {
-            entity.Property(e => e.TotalAmount).HasColumnType("decimal(18, 2)");
+        //modelBuilder.Entity<Order>(entity =>
+        //{
+        //    entity.Property(e => e.TotalAmount).HasColumnType("decimal(18, 2)");
 
-            entity.HasOne(d => d.User).WithMany(p => p.Orders)
-                .HasForeignKey(d => d.UserId)
-                .HasConstraintName("FK_Orders_Users");
-        });
+        //    entity.HasOne(d => d.User).WithMany(p => p.E)
+        //        .HasForeignKey(d => d.UserId)
+        //        .HasConstraintName("FK_Orders_Users");
+        //});
 
         modelBuilder.Entity<OrderDetail>(entity =>
         {
@@ -99,11 +99,9 @@ public partial class ApplicationDbContext : DbContext
                 .HasColumnType("datetime");
             entity.Property(e => e.Email).HasMaxLength(100);
             entity.Property(e => e.FullName).HasMaxLength(100);
+            entity.Property(e => e.IsAdmin).HasDefaultValue(false);
             entity.Property(e => e.PasswordHash).HasMaxLength(255);
             entity.Property(e => e.Phone).HasMaxLength(15);
-            entity.Property(e => e.Role)
-                .HasMaxLength(20)
-                .HasDefaultValue("User");
             entity.Property(e => e.UserName).HasMaxLength(50);
         });
 

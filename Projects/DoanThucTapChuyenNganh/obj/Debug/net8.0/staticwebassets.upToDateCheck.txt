@@ -16,13 +16,15 @@ wwwroot\images\client2.jpg
 wwwroot\images\co-HowCJ-01.png
 wwwroot\images\co-pha-cuetec-breach-ghost-edition-1024x1024.jpg
 wwwroot\images\cue-how-cj-01-1024x1024.jpg
-wwwroot\images\cue\breakcue-Cuetec-Breach.png
 wwwroot\images\cue\cue-ls-b01-jade-dragon-700x700.jpg
 wwwroot\images\cue\cue-ls-en02-male-phoenix-700x700.jpg
 wwwroot\images\hero-bg1.jpg
 wwwroot\images\icon\7044033_zalo_icon.png
 wwwroot\images\icon\face.png
 wwwroot\images\icon\titktok.png
+wwwroot\images\products\co-pha-cuetec-breach-ghost-edition-1024x1024.jpg
+wwwroot\images\products\cue-ls-en02-male-phoenix-700x700.jpg
+wwwroot\images\products\MRSUNG.png
 wwwroot\images\Shoplogo.png
 wwwroot\images\table\Mrsung.jpg
 wwwroot\images\table\MRSUNG.png
